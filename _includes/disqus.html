@@ -1,9 +1,9 @@
-
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = "http://BLOG.host.com/jekyll/update/2017/02/18/welcome-to-jekyll.html"; // <--- use canonical URL
-this.page.identifier = "/jekyll/update/2017/02/18/welcome-to-jekyll";
+this.page.url = "http://BLOG.host.com{{ page.url }}"; // <--- use canonical URL
+this.page.identifier = "{{ page.id }}";
 };
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
@@ -15,6 +15,5 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
+{% endif %}
 <!-- if this doesn't work use universal disqus code. -->
-
