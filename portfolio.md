@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Portfolio
+permalink: /portfolio/
 ---
 
 Hello there. My name is Nick Schwaderer and I currently live in beautiful Cornwall
