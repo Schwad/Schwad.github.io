@@ -20,14 +20,33 @@ a large flagship SaaS product. [Check us out at OceansHQ](www.oceanshq.com)
 On my own time I enjoy unique challenges and work, so if you would like to hire
 me, feel free to [get in touch.](mailto:nicholas.schwaderer@gmail.com)
 
+## OceansHQ
+
+I was brought on to OceansHQ in early 2016 as a full-time Ruby on Rails lead
+developer in house in Cornwall, England. Our client list is growing by the quarter
+and includes around half a dozen national governments, including the United Kingdom.
+
+I spend most of my time working on the VesselHQ system, which allows Maritime Registries
+to do their work in the 21st Century with a self-hosted, top-of-the-line SaaS framework.
+
+This work include:
+  -Implementing feature requests and enhancements requested by our clients or in house
+  -Refactoring and profiling segments of code to improve performance and reliability
+  -Building out a suite of over 2,000 tests from scratch
+  -Bulk data migration during onboarding (from spreadsheets to databases to everything in between)
+  -Code reviewing pull requests from other developers at OceansHQ
+
 ## Tooling/Tech
 _These are the technologies I use everyday on side/personal projects or in my job._
 
 ### Development
 
 * __Ruby on Rails__
+* __ERB__
+* __Haml__
 * __Javascript__
 * __CoffeeScript__
+* __CSS/SCSS/Sass__
 
 ### Testing/CI
 
