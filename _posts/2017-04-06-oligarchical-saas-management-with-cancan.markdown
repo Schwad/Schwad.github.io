@@ -134,6 +134,7 @@ You can turn your ability file into a `case/when` that instantiates different fi
       end
     end
   end
+{% endhighlight %}
 
 Then move the ability file where is most useful for you:
 
