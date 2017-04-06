@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oligarchical SaaS Management with CanCan"
-date:   2017-02-18 14:34:09 +0000
+date:   2017-04-06 14:34:09 +0000
 categories: ruby cancan saas
 comments: true
 ---
