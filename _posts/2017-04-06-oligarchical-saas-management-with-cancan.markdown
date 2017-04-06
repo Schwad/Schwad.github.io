@@ -124,7 +124,7 @@ You can turn your ability file into a `case/when` that instantiates different fi
     def initialize(user)
       return if user.blank?
 
-      case current_kingdom
+      case user.kingdom
       when "Grimmdor"
         grimmdor_abilities(user)
       when "Maxwoodia"
