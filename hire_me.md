@@ -4,7 +4,7 @@ title: Hire Me
 permalink: /hire_me/
 ---
 
-## Hello There
+## Hello Therer
 
 {% highlight ruby %}
  def print_hi(name)
