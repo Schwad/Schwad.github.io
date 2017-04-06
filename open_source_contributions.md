@@ -6,6 +6,10 @@ permalink: /open-source-contributions/
 
 Here are some of my open source contributions, large and small.
 
+### Gitlab
+
+  * [Redirects back to issue page after new branch creation UI instead of branch show page](https://github.com/gitlabhq/gitlabhq/pull/10420)
+
 ### Department of Defense (USA)
 
   * [Code.mil Licensing Agreement and Terms](https://github.com/deptofdefense/code.mil/pull/18)
@@ -14,7 +18,7 @@ Here are some of my open source contributions, large and small.
 
   * [Updates Plymouth University name](https://github.com/leereilly/swot/pull/1316)
 
-### Trucker Gem
+### Trucker gem
 
   * [Updates code references for Rails 5 compliance](https://github.com/mokolabs/trucker/pull/5)
 
