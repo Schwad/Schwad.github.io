@@ -6,6 +6,14 @@ permalink: /hire_me/
 
 ## Hello There
 
+{% highlight ruby %}
+ def print_hi(name)
+   puts "Hi, #{name}"
+ end
+ print_hi('Tom')
+ #=> prints 'Hi, Tom' to STDOUT.
+ {% endhighlight %}
+
 My name is Nick Schwaderer and I currently live in beautiful Cornwall
 in the UK.
 
