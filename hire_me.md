@@ -4,15 +4,7 @@ title: Hire Me
 permalink: /hire_me/
 ---
 
-## Hello Therer
-
-{% highlight ruby %}
- def print_hi(name)
-   puts "Hi, #{name}"
- end
- print_hi('Tom')
- #=> prints 'Hi, Tom' to STDOUT.
- {% endhighlight %}
+## Hello There
 
 My name is Nick Schwaderer and I currently live in beautiful Cornwall
 in the UK.
