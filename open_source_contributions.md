@@ -6,6 +6,10 @@ permalink: /open-source-contributions/
 
 Here are some of my open source contributions, large and small.
 
+### portal_gun
+
+  * [Allows rubyists to bring old Rails apps back to life.](https://github.com/schwad/portal_gun)
+
 ### Gitlab
 
   * [Redirects back to issue page after new branch creation UI instead of branch show page](https://github.com/gitlabhq/gitlabhq/pull/10420)
