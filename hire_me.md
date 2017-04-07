@@ -29,11 +29,16 @@ and includes around half a dozen national governments, including the United King
 I spend most of my time working on the VesselHQ system, which allows Maritime Registries
 to do their work in the 21st Century with a self-hosted, top-of-the-line SaaS framework.
 
-This work include:
+This work includes:
+
   -Implementing feature requests and enhancements requested by our clients or in house using TDD principles
+
   -Refactoring and profiling segments of code to improve performance and reliability
+
   -Building out a suite of over 2,000 tests from scratch
+
   -Bulk data migration during onboarding (from spreadsheets to databases to everything in between)
+  
   -Code reviewing pull requests from other developers at OceansHQ
 
 ## Tooling/Tech
