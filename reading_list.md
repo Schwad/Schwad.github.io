@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading List
+title: Reading/Watching List
 permalink: /reading-list/
 ---
 
@@ -17,6 +17,8 @@ Check it out.
    - When you work remote or as part of a small team as a rails engineer, it's important to challenge
    yourself and your code habits. I found this piece a useful resource on what other teams see as
    'red flags'.
+
+  * [RailsConf 2016 - Making a Rails App with 140 Characters (or less) by Nate Berkopec](https://www.youtube.com/watch?v=SXV-RRsjsFc&index=4&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC)
 
 ## Fiction
 
