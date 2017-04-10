@@ -12,15 +12,27 @@ Then reality sets in. Deadlines, client needs, feature requests and limited time
 
 The one thing I have learned, however, is that if you don't prioritize test coverage of your pull requests today you will pay for it tomorrow.
 
-So normally, my flow would be to write a few feature tests in say, `spec/features/posts/post_management_spec.rb`, then run `rspec spec/features/posts/post_management_spec.rb`, see them fail, and move on. If there were a lot of tests in the file, I would comment out the ones I didn't want temporarily and run the spec with only the wanted tests enabled until it was time to merge.
+So normally, my flow would be to write a few feature tests in say,
 
-However this became quickly impractical as I would often also have a plethora of model and feature tests across multiple files. To boot, they may only be one test per spec file, and each spec file may have 5-10 tests. So even if I specified to just run the spec files with the changed tests, I could potentially be running `n` console commands (n= new spec count) and actually be executing `n*5` or `n*10` tests, inconceivable! Of course, if your full suite takes 30+ minutes, this is a definite issue.
+`spec/features/posts/post_management_spec.rb`
 
-Inefficiencies in the development process afford you time and pain to reflect on your bottlenecks.
+then run
 
-Thankfully, we can turn this from a `O(n*5)` problem to an `O(1)` problem with relative ease thanks to a simple trick I recently picked up from [Avdi Grimm's Ruby Tapas](https://www.rubytapas.com/) (unfortunately I couldn't track down the exact link at time of writing).
+`rspec spec/features/posts/post_management_spec.rb`
 
-It's all in the `-e`. `-e` allows you to match part of a test's name and run only those tests. So I took this to the next level.
+see them fail, and move on. If there were a lot of tests in the file, I would comment out the ones I didn't want temporarily and run the spec with only the wanted tests enabled until it was time to merge.
+
+This became quickly impractical. What if I have a plethora of model and feature tests across multiple files? What if I only want one test per file across 10 files?
+
+So even if I just ran against the files with the changed tests, I could potentially be running `n` console commands (n= new spec count) and actually be executing `n*5` or `n*10` tests! Of course, if your full suite takes 30+ minutes, this is a definite issue.
+
+__Inefficiencies in the development process afford you time and pain to reflect on your bottlenecks.__
+
+Thankfully, we can turn this from a `O(n*5)` problem to an `O(1)` problem with relative ease thanks to a simple trick I recently picked up from [Avdi Grimm's Ruby Tapas](https://www.rubytapas.com/) _(unfortunately I couldn't track down the exact link at time of writing)_.
+
+It's all in the `-e`.
+
+`-e` allows you to match part of a test's name and run only those tests. So I took this to the next level.
 
 ### Workflow
 
@@ -46,7 +58,6 @@ RSpec.describe Post, type: :model do
   context 'Methods' do
     context '#upcase_author' do
       it 'should render the author name in upcase' do
-        expect(post.author.name).to eq("Stanley Smith")
         expect(post.upcase_author).to eq("STANLEY SMITH")
       end
     end
@@ -54,11 +65,11 @@ RSpec.describe Post, type: :model do
 end
  {% endhighlight %}
 
- And you are in need of adding some tests, with the possibility that in this same pull request you will be modifying multiple spec files, and you really just want to run the new tests.
+ You will be adding new tests here, and in several other files. You really just want to run the new tests.
 
- You are using this in a Github/Gitlab workflow, your branch is married to an issue by a number, something like `#123-allow-downcase-author`.
+ You are working in a Github/Gitlab workflow, your branch is married to an issue by a number, something like `#123-allow-downcase-author`.
 
- When you write your new tests, at the end of the test name add in `#123_spec`, like so:
+ When you write your new tests, at the end of the test name __add in `#123_spec`__, like so:
 
  {% highlight ruby %}
  require 'rails_helper'
@@ -77,7 +88,7 @@ end
      end
 
      context '#without_author' do
-        it 'should only render if the post does not have an author #123_spec' do
+        it 'should only render if the post does not have an author __#123_spec__*' do
           expect.(Post.without_author).not_to include(post)
           post.update_column(:author_id, nil)
           expect.(Post.without_author).to include(post)
@@ -91,20 +102,20 @@ end
          expect(post.upcase_author).to eq("STANLEY SMITH")
        end
 
-       it 'should render the author name in downcase #123_spec' do
+       it 'should render the author name in downcase __#123_spec__*' do
          expect(post.downcase_author).to eq("stanley smith")
        end
      end
    end
  end
   {% endhighlight %}
-
+  #_*emphasis added_
 Pretty straightforward, huh?
 
-As you flesh out your work with tests all around the spec folder, you add this tag at the end, and whenever you check your tests you simply run:
+Whenever you check your tests, simply run:
 
 `rspec -e '#123_spec'`
 
-And your application knows only to run those tests. When you're done, you're simply one `CMD+Shift+F` away from clearing out the tags and pushing up your working code along with its tests (assuming you aren't coding on a rock)!
+And your application knows only to run those tests. When you're done, you're simply one `CMD+Shift+F` away from clearing out the tags and pushing up your working code along with its new code and tests (assuming you aren't coding on a rock)!
 
 This simple technique combined with a little customization for my use case has decreased the pain of TDD and been a boon to efficiency in my work day. Thanks, Avdi!
