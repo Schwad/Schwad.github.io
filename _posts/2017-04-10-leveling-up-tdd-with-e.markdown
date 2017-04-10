@@ -2,7 +2,7 @@
 layout: post
 title:  "Leveling up TDD with -e"
 date:   2017-04-10 14:34:09 +0000
-categories: ruby cancan saas
+categories: ruby rails rspec tdd
 comments: true
 ---
 
