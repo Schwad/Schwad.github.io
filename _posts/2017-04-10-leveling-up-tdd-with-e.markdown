@@ -88,7 +88,7 @@ end
      end
 
      context '#without_author' do
-        it 'should only render if the post does not have an author __#123_spec__*' do
+        it 'should only render if the post does not have an author #123_spec' do
           expect.(Post.without_author).not_to include(post)
           post.update_column(:author_id, nil)
           expect.(Post.without_author).to include(post)
@@ -102,14 +102,14 @@ end
          expect(post.upcase_author).to eq("STANLEY SMITH")
        end
 
-       it 'should render the author name in downcase __#123_spec__*' do
+       it 'should render the author name in downcase #123_spec' do
          expect(post.downcase_author).to eq("stanley smith")
        end
      end
    end
  end
   {% endhighlight %}
-  #_*emphasis added_
+
 Pretty straightforward, huh?
 
 Whenever you check your tests, simply run:
