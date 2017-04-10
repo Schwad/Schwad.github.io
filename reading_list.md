@@ -18,7 +18,9 @@ Check it out.
    yourself and your code habits. I found this piece a useful resource on what other teams see as
    'red flags'.
 
-  * [RailsConf 2016 - Making a Rails App with 140 Characters (or less) by Nate Berkopec](https://www.youtube.com/watch?v=SXV-RRsjsFc&index=4&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC)
+ * [RailsConf 2016 - Making a Rails App with 140 Characters (or less) by Nate Berkopec](https://www.youtube.com/watch?v=SXV-RRsjsFc&index=4&list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC)
+   - It's amazing how much you can work in a framework without questioning massive regions of the codebase you see every day. Berkopec takes YAGNI to the extreme to show the minimal amount of code you need to have a legitimate, running Rails application. The benefit of watching this isn't really to try and play code golf, but give even seasoned devs a good crash course on the whole default Rails directory and what its purpose is.
+
 
 ## Fiction
 
