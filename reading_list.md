@@ -18,4 +18,9 @@ Check it out.
    yourself and your code habits. I found this piece a useful resource on what other teams see as
    'red flags'.
 
-## Other
+## Fiction
+
+  * [The Naulahka - Rudyard Kipling/Wolcott Balestier](https://www.amazon.com/Naulakha-Rudyard-Kipling-ebook/dp/B01FM46RE6/ref=sr_1_sc_1?ie=UTF8&qid=1491813136&sr=8-1-spell&keywords=the+naulhaka)
+    - I picked up an 1800s version of this in a used bookshop in Plymouth for eight pounds. It was in fantastic condition. I enjoyed a swashbuckling story about a 20-something state legislator named Nick from Colorado sailing to India to chase some famed jewels and a woman he loved.
+  * [The Foundation Trilogy - Isaac Asimov](https://www.amazon.com/Foundation-Trilogy-Isaac-Asimov/dp/0307292061/ref=sr_1_1?ie=UTF8&qid=1491813281&sr=8-1&keywords=the+foundation+trilogy)
+    - My father lobbied me from a young age to read this trilogy. During my time at Plymouth University and after, I started and stopped. I've recently picked it up again and hope to have it concluded soon. Fantastic old school sci fi trilogy that I would heartily recommend to anyone. The way the Aasimov constructs a Universe with logic and his own invented "psycho-history" at the core is fascinating. Great reading.

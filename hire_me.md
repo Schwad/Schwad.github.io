@@ -38,7 +38,7 @@ This work includes:
   -Building out a suite of over 2,000 tests from scratch
 
   -Bulk data migration during onboarding (from spreadsheets to databases to everything in between)
-  
+
   -Code reviewing pull requests from other developers at OceansHQ
 
 ## Tooling/Tech
@@ -51,6 +51,7 @@ _These are the technologies I use everyday on side/personal projects or in my jo
 * __ERB__
 * __Haml__
 * __Javascript__
+* __Bootstrap 3/ Bootstrap 4__
 * __CoffeeScript__
 * __CSS/SCSS/Sass__
 
