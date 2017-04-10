@@ -6,7 +6,7 @@ categories: ruby rails rspec tdd
 comments: true
 ---
 
-There's a lot of tools out there to help you with the [Red-Green-Refactor](https://thoughtbot.com/upcase/fundamentals-of-tdd) process of Test-Driven Development. We pick up new ones, drop old ones, and probably have several that we know we should be using more often. For example, in my early days of Rails development, I was trained to use [Guard](https://github.com/guard/guard-rspec) pretty heavily to keep an eye on my [RSpec](https://github.com/rspec/rspec) tests while in the flow of code.
+There are many tools out there to help you with the [Red-Green-Refactor](https://thoughtbot.com/upcase/fundamentals-of-tdd) process of Test-Driven Development. We pick up new ones, drop old ones, and probably have several that we know we should be using more often. For example, in my early days of Rails development, I was trained to use [Guard](https://github.com/guard/guard-rspec) pretty heavily to keep an eye on my [RSpec](https://github.com/rspec/rspec) tests while in the flow of code.
 
 Then reality sets in. Deadlines, client needs, feature requests and limited time constraints put pressure on how we test our applications.
 
