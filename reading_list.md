@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading/Watching List
+title: Reading List
 permalink: /reading-list/
 ---
 
