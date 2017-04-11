@@ -101,9 +101,12 @@ end
        it 'should render the author name in upcase' do
          expect(post.upcase_author).to eq("STANLEY SMITH")
        end
-
-       it 'should render the author name in downcase #123_spec' do
-         expect(post.downcase_author).to eq("stanley smith")
+     end
+     
+     context '#downcase_author' do
+         it 'should render the author name in downcase #123_spec' do
+           expect(post.downcase_author).to eq("stanley smith")
+         end
        end
      end
    end
