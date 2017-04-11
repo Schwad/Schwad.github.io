@@ -1,0 +1,22 @@
+i wrote a migration
+
+it was big, it was wrong, I really don't want to reload everythign because I am working on production db, etc.
+
+it's not pushed
+
+`rake db:migrate:status`
+
+```
+
+database: my_database
+
+ Status   Migration ID    Migration Name
+--------------------------------------------------
+   up     20170104131525  Devise create users
+   up     20170104174145  Create roles
+   up     20170704182740  Create fish
+   up     20170704192840  Create octopus
+   up     20170704195845  Create new attributes for Fish and migrate from octopus
+```
+
+`rake db:migrate:redo VERSION=20170704195845`
