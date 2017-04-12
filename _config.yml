@@ -22,8 +22,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "schwad.github.io"
 twitter_username: Schwad4HD14
 github_username:  schwad
-# disqus:
-#   shortname: schwad-github-io
+disqus:
+  shortname: schwad-github-io
 
 # Build settings
 markdown: kramdown
