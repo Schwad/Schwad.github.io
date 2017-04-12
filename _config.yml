@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I am a Full Stack Ruby on Rails Software Engineer for OceansHQ in Torpoint,
   England.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "schwad.github.io"
+url: schwad.github.io
 twitter_username: Schwad4HD14
 github_username:  schwad
 disqus:
