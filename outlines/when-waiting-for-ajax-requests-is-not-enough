@@ -1,0 +1,16 @@
+Say you have elements 1-50 that you lazy load onto a page.
+
+Say that, to improve UI/UX, you lazy load them.
+
+However, in Capybara, if there's a break on a feature test, it never loads. Crap!
+
+So you go along with thoughtbot's wait_for_ajax
+
+And to be double sure, you include a wait_for_element where you wait for your spinners
+to go away.
+
+However, you overhaul your code and now everything's broken, and all you have is this
+timeout error. You know things are broken but not WHY, you just have the binary response
+about whether lazy loading is dispensed. DARN!
+
+you need verbose breaking. 
