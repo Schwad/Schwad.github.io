@@ -23,11 +23,11 @@ url: "https://schwad.github.io"
 twitter_username: Schwad4HD14
 github_username:  schwad
 disqus:
-  shortname: schwd-github-io
+  shortname: schwad-github-io
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 gems:
   - jekyll-feed
 exclude:
