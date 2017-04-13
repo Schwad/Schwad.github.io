@@ -16,7 +16,7 @@ database: my_database
    up     20170104174145  Create roles
    up     20170704182740  Create fish
    up     20170704192840  Create octopus
-   up     20170704195845  Create new attributes for Fish and migrate from octopus
+   up     20170704195845  Create new attributes for fish and migrate from octopus
 ```
 
 `rake db:migrate:redo VERSION=20170704195845`
