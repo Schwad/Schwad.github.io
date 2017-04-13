@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "You've messed up a migration. Now what?"
-date:   2017-04-10 14:34:09 +0000
+date:   2017-04-13 14:34:09 +0000
 categories: ruby rails migrations
 comments: true
 ---
