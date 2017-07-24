@@ -9,6 +9,9 @@ Check it out.
 
 ## Tech/Work Related
 
+ * [Implementing Classification Using A SVM In Ruby](http://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
+   - I'm always hearing about machine learning (don't all devs), and all those fancy hip topics. I managed to safely avoid it until I stumbled upon this article and [accompanying repo](https://github.com/daugaard/example-svm) showing a fun, simple use case using an SVM for Machine Learning in Ruby. Loved it.
+
  * [Sitepoint: Introduction to Using Redis with Rails](https://www.sitepoint.com/introduction-to-using-redis-with-rails/)
    - The example didn't necessarily speak to me as I already use the [friendly_id](https://github.com/norman/friendly_id) gem to cover off this use case. However,
    it did open up my eyes to the power of redis and lead to my using it to solve a
