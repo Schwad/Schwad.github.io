@@ -9,6 +9,12 @@ Check it out.
 
 ## Tech/Work Related
 
+ * [React Native Helpful Resources](https://github.com/Schwad/reactnative-sandbox/blob/master/helpful_resources.md)
+   - As I slowly dab my toes further into React Native, I'll be curating a list of what I've found to be helpful resources on it here. They are collated from a few places that already exist, and will be sprinkled with [field stones](http://www.developerdotstar.com/mag/articles/weinberg_on_writing.html) I've found along the way.
+
+ * [Refactoring.com](https://refactoring.com/catalog/)
+   - This resource has an endless supply of tools for your toolbox when it comes to refactoring. Don't leave home without it. 
+
  * [Implementing Classification Using A SVM In Ruby](http://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
    - I'm always hearing about machine learning (don't all devs), and all those fancy hip topics. I managed to safely avoid it until I stumbled upon this article and [accompanying repo](https://github.com/daugaard/example-svm) showing a fun, simple use case using an SVM for Machine Learning in Ruby. Loved it.
 
