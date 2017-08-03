@@ -5,10 +5,10 @@ date:   2017-07-31 14:34:09 +0000
 categories: ruby rails testing
 comments: true
 ---
+{: style="text-align:center"}
+->![Hammer](http://i.imgur.com/FmD3O29.png)
 
-->![Hammer](http://i.imgur.com/FmD3O29.png)<-
-
-Whenever we need a solution as programmers, it's easy to fire up a dozen tabs in the browser and read through hours of debate on dozens of third party libraries. As we narrow down our possible solutions we are then faced with integrating these into full-scale production web or mobile applications. Even if everything moves slick right out of the gate, the best case scenario is that we've added to our dependency bloat.
+Whenever we need a solution as programmers, it's easy to fire up a dozen tabs in the browser and read through hours of debate on dozens of third party libraries. As we narrow down our possible solutions we are then faced with integrating these into full-scale production web or mobile applications. Even if everything moves slick right out of the gate, the best case scenario is that we've added to our dependency bloat.g
 
 __The thing is, the basic tools we use have more in-house firepower than we could possibly hope to cover or learn.__
 
