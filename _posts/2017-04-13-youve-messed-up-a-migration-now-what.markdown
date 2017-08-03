@@ -6,7 +6,8 @@ categories: ruby rails migrations
 comments: true
 ---
 
-![Facepalm](http://img11.deviantart.net/fab9/i/2012/150/c/c/facepalm_2_by_wolkenfels_stock-d51mpuf.jpg =250x)
+<!-- ![Facepalm](http://img11.deviantart.net/fab9/i/2012/150/c/c/facepalm_2_by_wolkenfels_stock-d51mpuf.jpg =250x) -->
+<img src="http://img11.deviantart.net/fab9/i/2012/150/c/c/facepalm_2_by_wolkenfels_stock-d51mpuf.jpg" alt="Hammer" style="width: 200px;"/>
 
 You've written a migration in your Ruby on Rails application, and _like any normal human_, you've made a mistake!
 
