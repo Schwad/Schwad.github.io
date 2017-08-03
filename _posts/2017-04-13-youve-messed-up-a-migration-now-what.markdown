@@ -6,10 +6,9 @@ categories: ruby rails migrations
 comments: true
 ---
 
-<!-- ![Facepalm](http://img11.deviantart.net/fab9/i/2012/150/c/c/facepalm_2_by_wolkenfels_stock-d51mpuf.jpg =250x) -->
-<img src="http://img11.deviantart.net/fab9/i/2012/150/c/c/facepalm_2_by_wolkenfels_stock-d51mpuf.jpg" alt="Hammer" style="width: 10px;"/>
+<img src="http://img11.deviantart.net/fab9/i/2012/150/c/c/facepalm_2_by_wolkenfels_stock-d51mpuf.jpg" alt="Hammer" width='10'/>
 
-You've written a migration in your Ruby on Rails application, and _like any normal human_, you've made a mistake!
+You've written a migration in your Ruby on Rails application, and _like any normal human_, you've made a mistake!!
 
 In your development environment, you don't want to drop and recreate the database you're working in, you just want to 're-run' the migration that you've now fixed.
 
