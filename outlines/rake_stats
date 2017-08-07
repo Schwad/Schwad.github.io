@@ -1,1 +1,9 @@
+- have talked about this feature in blog posts since 2007, a decade old! http://www.pervasivecode.com/blog/2007/06/28/hacking-rakestats-to-get-gross-loc/
 
+- breaking down code statistics calculator: https://github.com/rails/rails/blob/111736ddf6fe81f3e42af37dfa1b0520a8c91473/railties/lib/rails/code_statistics_calculator.rb
+
+- larger code statistics file: https://github.com/rails/rails/blob/111736ddf6fe81f3e42af37dfa1b0520a8c91473/railties/lib/rails/code_statistics.rb
+
+- called from here: https://github.com/rails/rails/blob/111736ddf6fe81f3e42af37dfa1b0520a8c91473/railties/lib/rails/tasks/statistics.rake
+
+- direct link to tweet that started it all: https://twitter.com/dhh/status/891703224964702210
