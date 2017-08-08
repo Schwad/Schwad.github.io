@@ -1,0 +1,79 @@
+- okay, this is mistitled but whatever. RSpec is working FINE, but it is way too slow to load:
+
+- Here is one example on running RSpec with one new test packaged with a feature:
+
+```
+Finished in 48.19 seconds (files took 33.15 seconds to load)
+1 example, 0 failures
+```
+
+- I didn't benchmark this dozens of times, but good *lord*! I understand the 15 seconds as this was quite a hefty feature test, but waiting 30 extra seconds every time I want to check the spec, it's been adding up. And I want to see ways if I can improve this. 
+
+- I thought it might be my gemset bloating. So, I checked. 
+
+` bundle | wc -l`
+`#=> 210`
+`gem list -q | wc -l`
+`#=> 420`
+
+Yep, I'm relying on almost double the number of gems in my local gemset compared to bundle. Let's fix that. 
+
+- There's a great guide to setting up a new gemset with the rvm docs here: https://rvm.io/gemsets/using
+
+- Following that, I went around to setting up a new gemset
+
+```
+rvm gemset create schwad
+#=> ruby-2.3.3 - #gemset created /Users/nickschwaderer/.rvm/gems/ruby-2.3.3@schwad
+#=> ruby-2.3.3 - #generating schwad wrappers........
+rvm gemset use schwad
+#=> Using ruby-2.3.3 with gemset schwad
+rvm use 2.3.3@schwad
+#=> Using /Users/nickschwaderer/.rvm/gems/ruby-2.3.3 with gemset schwad
+rvm use 2.3.3@schwad --default
+#=> Using /Users/nickschwaderer/.rvm/gems/ruby-2.3.3 with gemset schwad
+gem list -q | wc -l
+#=> 42
+```
+
+Shwing! Lowered number of gems. Now to rebundle:
+
+`gem install bundler`
+`bundle install`
+`gem list -q | wc -l`
+`#=> 233`
+
+Great! even after bundling I've chopped down unused dependencies for this gemset. Now to test... Does anything speed up here?
+
+dang.
+
+nope. 
+
+Despite running this spec and switching gemsets multiple times, even opening a new terminal and doing so, no meaningful change. So my boot time must be from something other than my local gems. 
+
+Other recommendations and results:
+
+### Try spring-commands-rspec gem
+
+- In my development/test group, I added the spring-commands-rspec gem found here: https://github.com/jonleighton/spring-commands-rspec
+
+- Then I ran `bundle exec spring binstub rspec` to generate `bin/rspec`.
+
+- I know spring worked well for my rails server, did it work well for loading rspec?
+
+`Finished in 1.39 seconds (files took 0.52567 seconds to load)`
+
+__HOLY SWEET SACCHARINE JEHOZAFAT!!!!__
+
+- This had to be a mistake. Nope right test. Ran it again, and again, and got the speed boost that `spring` provides by keeping things loaded for me. 
+
+- Just make sure you call `bin/rspec` at the start, otherwise you'll lose the speed boost.
+
+### Try gem pristine --all
+
+### Check gem initializers
+
+### See if it has to do with rails by checking specs between spec_helper and rails_helper
+
+### Maybe rspec just takes a long time with rvm?
+
