@@ -1,7 +1,7 @@
 ---
  layout: post
  title:  "How I got RSpec to boot 50 times faster"
- date:   2017-07-31 14:34:09 +0000
+ date:   2017-08-14 14:34:09 +0000
  categories: ruby rails testing
  comments: true
 ---
