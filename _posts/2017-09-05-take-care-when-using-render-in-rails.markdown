@@ -9,11 +9,16 @@
 {: style="text-align:center"}
 ![Double](http://i.imgur.com/RHhzGMv.jpg)
 
-The more I experiment with other technologies, the more I realize what a joy it is to work with Rails and Ruby every single day. Take for example the following:
+
+The more I experiment with other technologies, the more I realize what a joy it is to work with Rails and Ruby every single day.
+
+I take for granted the baked-in convention-over-configuration ethos, which allows developers to maximize their efforts with genuine building and creativity.
+
+Take for example the following:
 
 ### Implicit rendering
 
-I take for granted the baked-in convention-over-configuration ethos, which allows developers to maximize their efforts with genuine building and creativity. One of these that we enjoy from day one is implicit rendering from ActionController. When spinning up a controller action, you do not need to specify what template to render. As long as the namespaces match and are found in `app/views`, your application will do the work for you. In fact if you stay RESTful on a CRUD app you may rarely if ever find yourself manually rendering templates.
+ When spinning up a new action in ActionController, you do not need to specify what template to render. As long as the namespaces match and are found in `app/views`, your application will do the work for you. If you stay RESTful on a CRUD app you may rarely if ever find yourself manually rendering templates.
 
 {% gist e4cc7c3bb19a9c0d412f5cf306957c31 %}
 
@@ -21,7 +26,7 @@ See? It knows to spit out the associated view. This is the kind of joy you exper
 
 ### Explicit rendering
 
-However, there are times where we stray as we continue building larger applications. That's okay though! Rails is convention __over__ configuration, not the banishment of configuration altogether. In that case we can send the template explicitly down....
+There will be times when we stray as we continue building larger applications. That's okay though! Rails is convention __over__ configuration, not the banishment of configuration altogether. In that case we can send the template explicitly down....
 
 {% gist 2c93aabc5a94dfc57b5e3a41f012b91e %}
 
@@ -29,11 +34,11 @@ However, there are times where we stray as we continue building larger applicati
 
 ### Extra curricular activity
 
-If you made your way to this post, you more than likely are familiar with the last two pieces. I think it's important we cover the __easily-missed__ case where we can be executing code that we do not expect. Take the following code:
+That doesn't mean we can't overlook something big. It's important to note the __easily-missed__ case where we can be executing unexpected code. Take the following example:
 
 {% gist fb15697bc0d44d60b37d665deb649951 %}
 
-It may be obvious from such a small controller action, but this can easily be missed as controller get more fat. All code after a `redirect` or `render` __is still executed__. That means in this case we see this page:
+It may be obvious from such a small controller action, but this can easily be missed as controllers get more fat. All code after a `redirect` or `render` __is still executed__. That means in this case we see this page:
 
 {: style="text-align:center"}
 ![Double](http://i.imgur.com/ji4y7TT.png)
@@ -47,15 +52,17 @@ While building out controllers and especially as they get larger, be sure to tak
 
 ### Handling DoubleRenderError
 
-Another issue that we can see is if `render` or `redirect` code is executed more than once. See below:
+Worth remembering is that `render` or `redirect` code is executed more than once. See below:
 
 {% gist 5c8d5c6bda0e3008c23d9cb6c62f2045 %}
 
-I almost guarantee that you've encountered this a fair few times yourself. Most likely as controllers are growing. If you find yourself unable to remove the render or redirect (which I recommend trying first) you can resolve this by calling `and return` after the render is hit.
+You've probably encountered this error a fair few times yourself. Most likely as controllers are growing. If you find yourself unable to remove the render or redirect (which I recommend trying first) you can resolve this by calling `and return` after the render is hit.
 
 {% gist a279b21a319d8c8f4035029922e53b4f %}
 
-You may notice that this also precludes all later code from executing, which makes this a handy tool in the event that you not only want to prevent a DoubleRenderError, but stop later code from executing. When we visit `'/books/blocks_double_render_error'` we can clearly see that the code has not executed on the title attribute.
+This also precludes all later code from executing, which is a handy tool in the event that you not only want to prevent a DoubleRenderError, but stop later code from executing.
+
+When we visit `'/books/blocks_double_render_error'` we can clearly see that the code has not executed on the title attribute.
 
 {: style="text-align:center"}
 ![Double](https://i.imgur.com/aAa8NtL.png)
