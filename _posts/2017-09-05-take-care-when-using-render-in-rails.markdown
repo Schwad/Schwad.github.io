@@ -7,7 +7,7 @@
 ---
 
 {: style="text-align:center"}
-![Double](http://i.imgur.com/A5N2uos.jpg)
+![Double](http://i.imgur.com/RHhzGMv.jpg)
 
 The more I experiment with other technologies, the more I realize what a joy it is to work with Rails and Ruby every single day. Take for example the following:
 
@@ -64,4 +64,4 @@ You may notice that this also precludes all later code from executing, which mak
 
 If you want to have a play with this yourself, I fired up a repo [with the example code](https://github.com/Schwad/be_careful_how_you_render/blob/master/app/controllers/books_controller.rb) that you can access.
 
-For a deeper dive on this, I heartily recommend [The Rails 5 Way](https://leanpub.com/tr5w) by [Obie Fernandez](https://twitter.com/obie). It is my absolute favorite Rails 5 reference to date. 
+For a deeper dive on this, I heartily recommend [The Rails 5 Way](https://leanpub.com/tr5w) by [Obie Fernandez](https://twitter.com/obie). It is my absolute favorite Rails 5 reference to date.
