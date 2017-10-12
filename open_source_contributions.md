@@ -6,6 +6,10 @@ permalink: /open-source-contributions/
 
 Here are some of my open source contributions, large and small.
 
+### webdack-uuid_migration
+
+  * This was a library to migrate primary keys from integers over to UUIDs. I uncovered a couple of bugs while running it on Rails 5.2.0.alpha and [launched a PR to fix the issues](https://github.com/kreatio-sw/webdack-uuid_migration/pull/6)
+
 ### portal_gun
 
   * [Allows rubyists to bring old Rails apps back to life.](https://github.com/schwad/portal_gun)
