@@ -40,6 +40,8 @@ Here's what I didn't like about that:
 2. The data remained on the state side primarily, limiting our ability to run in-house analytics.
 3. We had no ability to 'audit' state data, checking if payments were deleted or changed.
 
+I wanted to take all of the state data in my application and only ping the state for update purposes. 
+
 My Heroku DB would not support this (free tier is 10,000 rows). I knew I would need support for up to 10,000,000 rows. It was nerve-wracking, but by [following the comprehensive heroku docs](https://devcenter.heroku.com/articles/upgrading-heroku-postgres-databases) I was able to upgrade without any issues. Now to bring the data in.
 
 ### Importing hundreds of thousands of rows of new data
