@@ -9,6 +9,7 @@ Here are some of my open source contributions, large and small.
 ## Named Contributor
 
 ### webdack-uuid_migration gem
+
   * [Link](https://github.com/kreatio-sw/webdack-uuid_migration)
   * Gem allows straightforward migration from IDs to UUIDs as primary keys
   * Also supports compliance with DB constraints in dealing with updating existing objects and associated objects
