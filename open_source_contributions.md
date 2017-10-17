@@ -6,6 +6,25 @@ permalink: /open-source-contributions/
 
 Here are some of my open source contributions, large and small.
 
+## Named Contributor
+
+### [webdack-uuid_migration gem](https://github.com/kreatio-sw/webdack-uuid_migration)
+  * Gem allows straightforward migration from IDs to UUIDs as primary keys
+  * Also supports compliance with DB constraints in dealing with updating existing objects and associated objects
+  * Fixed existing bugs and also updated and tested for compliance with Rails 5.2.0
+
+
+## [CodeTriage Subscriptions](https://www.codetriage.com)
+  __These are the repos I currently subscribe to to provide open source support for via CodeTriage, created by [Schneems](https://github.com/schneems)__
+  * [Rails](https://www.codetriage.com/rails/rails)
+  * [Faker](https://www.codetriage.com/stympy/faker)
+  * [Searchkick](https://www.codetriage.com/ankane/searchkick)
+  * [rails-composer](https://www.codetriage.com/railsapps/rails-composer)
+  * [cancancan](https://www.codetriage.com/cancancommunity/cancancan)
+  * [CodeTriage](https://www.codetriage.com/codetriage/codetriage)
+
+## Personal open source repos and misc public contributions
+
 ### portal_gun
 
   * [Allows rubyists to bring old Rails apps back to life.](https://github.com/schwad/portal_gun)
