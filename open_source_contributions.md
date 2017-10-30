@@ -24,6 +24,7 @@ Here are some of my open source contributions, large and small.
   * [rails-composer](https://www.codetriage.com/railsapps/rails-composer)
   * [cancancan](https://www.codetriage.com/cancancommunity/cancancan)
   * [CodeTriage](https://www.codetriage.com/codetriage/codetriage)
+  * [Pronto](https://www.codetriage.com/prontolabs/pronto)
 
 ## Personal open source repos and misc public contributions
 
