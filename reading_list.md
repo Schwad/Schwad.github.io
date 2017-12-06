@@ -7,6 +7,11 @@ permalink: /reading-list/
 These are posts, links and books I have come across that I think you may enjoy.
 Check it out.
 
+## Bookmarked 
+__(for those posts you find and never want to lose again)__
+
+* [Rails Database Best Practices](https://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
+
 ## Tech/Work Related
 
  * [React Native Helpful Resources](https://github.com/Schwad/reactnative-sandbox/blob/master/helpful_resources.md)
