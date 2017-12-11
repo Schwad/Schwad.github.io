@@ -16,6 +16,8 @@ __(for those posts you find and never want to lose again)__
 * [Ruby Toolbox (temporary holder)](https://www.ruby-toolbox.com/)
 * [New Ruby Toolbox Beta](https://beta.ruby-toolbox.com/)
 * [React on Rails Talk Through](https://evilmartians.com/chronicles/evil-front-part-1)
+* [DevDocs.io - searchable docs for all the things](http://devdocs.io/)
+* [Awesome Ruby - another great repository of handy Ruby tooling](https://ruby.libhunt.com/)
 
 ## Tech/Work Related
 
