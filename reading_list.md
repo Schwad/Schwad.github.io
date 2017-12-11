@@ -11,6 +11,11 @@ Check it out.
 __(for those posts you find and never want to lose again)__
 
 * [Rails Database Best Practices](https://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
+* [All Ruby Books: Fantastic resource listing most all published books on Ruby](http://www.allrubybooks.com/)
+* [Scoring Your Rails Apps with Flog - great tutorial on a gem that's been around for a while with refactoring](http://www.railsinside.com/tutorials/487-how-to-score-your-rails-apps-complexity-before-refactoring.html)
+* [Ruby Toolbox (temporary holder)](https://www.ruby-toolbox.com/)
+* [New Ruby Toolbox Beta](https://beta.ruby-toolbox.com/)
+* [React on Rails Talk Through](https://evilmartians.com/chronicles/evil-front-part-1)
 
 ## Tech/Work Related
 
