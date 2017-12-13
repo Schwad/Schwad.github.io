@@ -18,6 +18,7 @@ __(for those posts you find and never want to lose again)__
 * [React on Rails Talk Through](https://evilmartians.com/chronicles/evil-front-part-1)
 * [DevDocs.io - searchable docs for all the things](http://devdocs.io/)
 * [Awesome Ruby - another great repository of handy Ruby tooling](https://ruby.libhunt.com/)
+* [Slick How-To on Gemifying Assets in Rails](https://medium.com/@paulfarino/wrap-your-assets-in-a-gem-3ad7ecf5b075)
 
 ## Tech/Work Related
 
