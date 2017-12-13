@@ -28,6 +28,8 @@ Here are some of my open source contributions, large and small.
 
 ## Personal open source repos and misc public contributions
 
+### [Example RubyGem template for Gemifying Rails assets](https://github.com/Schwad/assets_in_a_gem-rails)
+
 ### portal_gun
 
   * [Allows rubyists to bring old Rails apps back to life.](https://github.com/schwad/portal_gun)
