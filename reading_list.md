@@ -10,6 +10,7 @@ Check it out.
 ## Bookmarked 
 __(for those posts you find and never want to lose again)__
 
+* [JIT Compiling for Ruby 3](http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast)
 * [Rails Database Best Practices](https://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
 * [All Ruby Books: Fantastic resource listing most all published books on Ruby](http://www.allrubybooks.com/)
 * [Scoring Your Rails Apps with Flog - great tutorial on a gem that's been around for a while with refactoring](http://www.railsinside.com/tutorials/487-how-to-score-your-rails-apps-complexity-before-refactoring.html)
