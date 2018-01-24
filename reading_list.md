@@ -10,6 +10,7 @@ Check it out.
 ## Bookmarked 
 __(for those posts you find and never want to lose again)__
 
+* [Ruby exception primer (appsignal)](https://blog.appsignal.com/2016/10/18/ruby-magic-exceptions-primer.html)
 * [JIT Compiling for Ruby 3](http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast)
 * [Rails Database Best Practices](https://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
 * [All Ruby Books: Fantastic resource listing most all published books on Ruby](http://www.allrubybooks.com/)
