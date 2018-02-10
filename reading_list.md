@@ -10,6 +10,7 @@ Check it out.
 ## Bookmarked 
 __(for those posts you find and never want to lose again)__
 
+* [Building a Ruby Desktop App in Linux](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [Ruby exception primer (appsignal)](https://blog.appsignal.com/2016/10/18/ruby-magic-exceptions-primer.html)
 * [JIT Compiling for Ruby 3](http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast)
 * [Rails Database Best Practices](https://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
