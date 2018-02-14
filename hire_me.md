@@ -54,6 +54,7 @@ _These are the technologies I use everyday on side/personal projects or in my jo
 * __Bootstrap 3/ Bootstrap 4__
 * __CoffeeScript__
 * __CSS/SCSS/Sass__
+* __Heroku__
 
 ### Testing/CI
 
