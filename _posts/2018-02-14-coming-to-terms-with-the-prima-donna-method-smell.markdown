@@ -21,11 +21,11 @@ Simply put, a 'Prima Donna Method' is one that has a ! suffix but with no bang-l
 
 David A. Black of ['The Well Grounded Rubyist'](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617291692) fame eloquently articulates why this is a smell:
 
-```
-The ! in method names that end with ! means, “This method is dangerous”—or, more precisely, this method is the “dangerous” version of an otherwise equivalent method, with the same name minus the !. “Danger” is relative; the ! doesn’t mean anything at all unless the method name it’s in corresponds to a similar but bang-less method name.
 
-So, for example, gsub! is the dangerous version of gsub. exit! is the dangerous version of exit. flatten! is the dangerous version of flatten. And so forth.
-```
+> The ! in method names that end with ! means, “This method is dangerous”—or, more precisely, this method is the “dangerous” version of an otherwise equivalent method, with the same name minus the !. “Danger” is relative; the ! doesn’t mean anything at all unless the method name it’s in corresponds to a similar but bang-less method name.
+>
+> So, for example, gsub! is the dangerous version of gsub. exit! is the dangerous version of exit. flatten! is the dangerous version of flatten. And so forth.
+
 For those keeping score at home, an example violating this principle would be:
 
 {% highlight ruby %}
@@ -81,12 +81,10 @@ class Purchase < ApplicationRecord
 end
 ```
 
-I thought would be articulate enough as is, and the bang would communicate to future developers on the fly that this is an action which changes the database row. So I went around penning my revelations and opinions to the community. However, the following further passages from Black really rung true with me:
+I thought that would be articulate enough as-is, and the bang would communicate to future developers on the fly that this is an action which changes the database row. So I went around penning my revelations and opinions to the community. However, the following further passages from Black really rung true with me:
 
-```
-Don’t add ! to your destructive (receiver-changing) methods’ names, unless you consider the changing to be “dangerous” and you have a “non-dangerous” equivalent method without the !. If some arbitrary subset of destructive methods end with !, then the whole point of ! gets distorted and diluted, and ! ceases to convey any information whatsoever.
-
-If you want to write a destructive method and you don’t think the name conveys destruction, you might be tempted to add a ! to make it clear. That’s not a good idea. If the name of a destructive method, without a !, does not connote destruction, then the name is wrong and cannot be repaired by slapping a ! on it.
-```
+> Don’t add ! to your destructive (receiver-changing) methods’ names, unless you consider the changing to be “dangerous” and you have a “non-dangerous” equivalent method without the !. If some arbitrary subset of destructive methods end with !, then the whole point of ! gets distorted and diluted, and ! ceases to convey any information whatsoever.
+>
+> If you want to write a destructive method and you don’t think the name conveys destruction, you might be tempted to add a ! to make it clear. That’s not a good idea. If the name of a destructive method, without a !, does not connote destruction, then the name is wrong and cannot be repaired by slapping a ! on it.
 
 Okay. Maybe I got my original 'signalling' ideas crosswired. *Any method can be destructive*. The ! is solely to convey information for __dangerous versions of existing methods__. We can move away from this, but risk genuine confusion from other developers and dilution of the message.
