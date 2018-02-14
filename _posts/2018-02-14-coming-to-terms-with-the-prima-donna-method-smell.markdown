@@ -1,6 +1,6 @@
 ---
  layout: post
- title:  "Coming to terms with the 'Prima Donna Method' Smell"
+ title:  "Coming to Terms with the 'Prima Donna Method' Smell"
  date:   2018-02-14 14:34:09 +0000
  categories: ruby rails code-quality code-smells
  comments: true
