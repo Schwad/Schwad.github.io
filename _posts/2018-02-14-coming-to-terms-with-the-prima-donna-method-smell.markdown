@@ -89,4 +89,4 @@ I thought that would be articulate enough as-is, and the bang would communicate 
 
 It's easy for us to view criticism or code-smell failures from an egotistical vantage - 'how could *I* be in the wrong here!? I am a *professional*!'. However sometimes it's worth coming down off of your high horse and reconsidering your passionate position on a snippet of smelly code.
 
-I got my original 'signalling' ideas crosswired. *Any method can be destructive*. The ! is solely to convey information for __dangerous versions of existing methods__. We can move away from this, but risk genuine confusion from other developers and dilution of the message.
+I got my original 'signalling' ideas crosswired. *Any method can be destructive*. The ! is solely to convey information for __dangerous versions of existing methods__.
