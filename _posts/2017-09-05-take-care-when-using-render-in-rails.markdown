@@ -72,3 +72,19 @@ When we visit `'/books/blocks_double_render_error'` we can clearly see that the 
 If you want to have a play with this yourself, I fired up a repo [with the example code](https://github.com/Schwad/be_careful_how_you_render/blob/master/app/controllers/books_controller.rb) that you can access.
 
 For a deeper dive on this, I heartily recommend [The Rails 5 Way](https://leanpub.com/tr5w) by [Obie Fernandez](https://twitter.com/obie). It is my absolute favorite Rails 5 reference to date.
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '2671646';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/2671646.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->

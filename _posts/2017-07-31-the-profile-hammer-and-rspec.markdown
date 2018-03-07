@@ -54,3 +54,19 @@ This was on a small, simple starter application but you can imagine what this lo
 - This flag defaults to a small sample of tests, you can pass an integer after the flag if you want to increase or decrease the number of your slowest tests that you wnat to see on the report.
 
 - `--profile` will always run through a full pass of `rspec`, even if tests are failing. If you want your specs to stop and only run the profile on a passing suite, add the `--fail-fast` spec as well.
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '2671646';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/2671646.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->

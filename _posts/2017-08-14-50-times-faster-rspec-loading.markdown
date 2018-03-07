@@ -79,3 +79,19 @@ __HOLY SWEET SACCHARINE JEHOZAFAT!!!!__
 This had to be a mistake. Ran it again, and again, and got the speed boost that `spring` provides by keeping things loaded for me.
 
 This small tweak is saving me countless hours over the work cycle and seriously helped lower the pain points of proper TDD workflow.
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '2671646';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/2671646.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->

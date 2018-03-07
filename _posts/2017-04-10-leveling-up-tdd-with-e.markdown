@@ -102,7 +102,7 @@ end
          expect(post.upcase_author).to eq("STANLEY SMITH")
        end
      end
-     
+
      context '#downcase_author' do
          it 'should render the author name in downcase #123_spec' do
            expect(post.downcase_author).to eq("stanley smith")
@@ -122,3 +122,19 @@ Whenever you check your tests, simply run:
 And your application knows only to run those tests. When you're done, you're simply one `CMD+Shift+F` away from clearing out the tags and pushing up your working code along with its new code and tests (assuming you aren't coding on a rock)!
 
 This simple technique combined with a little customization for my use case has decreased the pain of TDD and been a boon to efficiency in my work day. Thanks, Avdi!
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '2671646';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/2671646.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->

@@ -40,7 +40,7 @@ Here's what I didn't like about that:
 2. The data remained on the state side primarily, limiting our ability to run in-house analytics.
 3. We had no ability to 'audit' state data, checking if payments were deleted or changed.
 
-I wanted to take all of the state data in my application and only ping the state for update purposes. 
+I wanted to take all of the state data in my application and only ping the state for update purposes.
 
 My Heroku DB would not support this (free tier is 10,000 rows). I knew I would need support for up to 10,000,000 rows. It was nerve-wracking, but by [following the comprehensive heroku docs](https://devcenter.heroku.com/articles/upgrading-heroku-postgres-databases) I was able to upgrade without any issues. Now to bring the data in.
 
@@ -172,3 +172,19 @@ Elasticsearch is no small beast to play with. If you look at `remoteok.io` a lot
 Once I followed their docs all I had to do was run `Query.reindex` in the console and I was good to go. It was shocking to me how lightning fast it is- I even allow autocomplete suggestions on every keystroke with little to no pain on the server end. Thank goodness for [Ruby Weekly](https://www.rubyweekly.com) for pointing me to searchkick.
 
 I reckon in the next month or so I'll have a shorter post highlighting all the new components of PorkCast 2.0 once it's live.
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '2671646';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/2671646.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->

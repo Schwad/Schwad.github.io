@@ -178,3 +178,19 @@ Extending this out to all clients, you can effectively cater to their special ne
 
 FINAL NOTE: For longer term scalability, or for larger Oligarchical setups, I would heartily recommend a specific feature test folder to handle derogations (such as `spec/features/abilities/tenderlovistan_derogations_spec.rb`) to document
 and test their unique ability features. It would also be highly recommended to have a default "example_abilities" file that new clients are started off with.
+
+<!-- Drip -->
+<script type="text/javascript">
+  var _dcq = _dcq || [];
+  var _dcs = _dcs || {};
+  _dcs.account = '2671646';
+
+  (function() {
+    var dc = document.createElement('script');
+    dc.type = 'text/javascript'; dc.async = true;
+    dc.src = '//tag.getdrip.com/2671646.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(dc, s);
+  })();
+</script>
+<!-- end Drip -->
