@@ -106,3 +106,15 @@ I thought that would be articulate enough as-is, and the bang would communicate 
 It's easy for us to view criticism or code-smell failures from an egotistical vantage - 'how could *I* be in the wrong here!? I am a *professional*!'. However sometimes it's worth coming down off of your high horse and reconsidering your passionate position on a snippet of smelly code.
 
 I got my original 'signalling' ideas crosswired. *Any method can be destructive*. The ! is solely to convey information for __dangerous versions of existing methods__.
+
+<form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
+  <h3 data-drip-attribute="headline">Stay in Touch</h3>
+  <div data-drip-attribute="description">I like to write about Ruby and building things, typically once every month or so. Get an email when I have written something new.</div>
+    <div>
+        <label for="drip-email">Email Address</label><br />
+        <input type="email" id="drip-email" name="fields[email]" value="" />
+    </div>
+  <div>
+    <input type="submit" value="I Love Ruby too! 💎" data-drip-attribute="sign-up-button" />
+  </div>
+</form>

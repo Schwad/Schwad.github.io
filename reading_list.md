@@ -7,7 +7,7 @@ permalink: /reading-list/
 These are posts, links and books I have come across that I think you may enjoy.
 Check it out.
 
-## Bookmarked 
+## Bookmarked
 __(for those posts you find and never want to lose again)__
 
 * [Heroku CLI tips and thoughts on moving, exporting and importing data](http://elh.mx/heroku/export-and-import-database-from-local-to-heroku/)
@@ -30,7 +30,7 @@ __(for those posts you find and never want to lose again)__
    - As I slowly dab my toes further into React Native, I'll be curating a list of what I've found to be helpful resources on it here. They are collated from a few places that already exist, and will be sprinkled with [field stones](http://www.developerdotstar.com/mag/articles/weinberg_on_writing.html) I've found along the way.
 
  * [Refactoring.com](https://refactoring.com/catalog/)
-   - This resource has an endless supply of tools for your toolbox when it comes to refactoring. Don't leave home without it. 
+   - This resource has an endless supply of tools for your toolbox when it comes to refactoring. Don't leave home without it.
 
  * [Implementing Classification Using A SVM In Ruby](http://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
    - I'm always hearing about machine learning (don't all devs), and all those fancy hip topics. I managed to safely avoid it until I stumbled upon this article and [accompanying repo](https://github.com/daugaard/example-svm) showing a fun, simple use case using an SVM for Machine Learning in Ruby. Loved it.
@@ -54,3 +54,15 @@ __(for those posts you find and never want to lose again)__
     - I picked up an 1800s version of this in a used bookshop in Plymouth for eight pounds. It was in fantastic condition. I enjoyed a swashbuckling story about a 20-something state legislator named Nick from Colorado sailing to India to chase some famed jewels and a woman he loved.
   * [The Foundation Trilogy - Isaac Asimov](https://www.amazon.com/Foundation-Trilogy-Isaac-Asimov/dp/0307292061/ref=sr_1_1?ie=UTF8&qid=1491813281&sr=8-1&keywords=the+foundation+trilogy)
     - My father lobbied me from a young age to read this trilogy. During my time at Plymouth University and after, I started and stopped. I've recently picked it up again and hope to have it concluded soon. Fantastic old school sci fi trilogy that I would heartily recommend to anyone. The way the Aasimov constructs a Universe with logic and his own invented "psycho-history" at the core is fascinating. Great reading.
+
+    <form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
+      <h3 data-drip-attribute="headline">Stay in Touch</h3>
+      <div data-drip-attribute="description">I like to write about Ruby and building things, typically once every month or so. Get an email when I have written something new.</div>
+        <div>
+            <label for="drip-email">Email Address</label><br />
+            <input type="email" id="drip-email" name="fields[email]" value="" />
+        </div>
+      <div>
+        <input type="submit" value="I Love Ruby too! 💎" data-drip-attribute="sign-up-button" />
+      </div>
+    </form>
