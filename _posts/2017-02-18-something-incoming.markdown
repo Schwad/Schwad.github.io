@@ -9,7 +9,7 @@ comments: true
 Most of my career has been spent whipping up dynamic CRUD-y RESTful rails apps
 for fun and profit. This page will be my first play around with Jekyll and a static
 "blog-styled" application. We'll see how it goes.
-
+test
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
@@ -33,7 +33,6 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 {% endif %}
-
 <!-- Drip -->
 <script type="text/javascript">
   var _dcq = _dcq || [];
@@ -49,3 +48,14 @@ s.setAttribute('data-timestamp', +new Date());
   })();
 </script>
 <!-- end Drip -->
+<form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
+  <h3 data-drip-attribute="headline">Stay in Touch</h3>
+  <div data-drip-attribute="description">I like to write about Ruby and building things, typically once every month or so. Get an email when I have written something new</div>
+    <div>
+        <label for="drip-email">Email Address</label><br />
+        <input type="email" id="drip-email" name="fields[email]" value="" />
+    </div>
+  <div>
+    <input type="submit" value="I Love Ruby too! 💎" data-drip-attribute="sign-up-button" />
+  </div>
+</form>
