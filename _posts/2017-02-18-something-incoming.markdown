@@ -9,7 +9,6 @@ comments: true
 Most of my career has been spent whipping up dynamic CRUD-y RESTful rails apps
 for fun and profit. This page will be my first play around with Jekyll and a static
 "blog-styled" application. We'll see how it goes.
-{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -31,7 +30,6 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-{% endif %}
 <!-- Drip -->
 <script type="text/javascript">
   var _dcq = _dcq || [];
