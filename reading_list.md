@@ -10,6 +10,7 @@ Check it out.
 ## Bookmarked
 __(for those posts you find and never want to lose again)__
 
+* [A Guide to Ruby Collections III: Enumerable and Enumerator](https://www.sitepoint.com/guide-ruby-collections-iii-enumerable-enumerator/)
 * [Heroku CLI tips and thoughts on moving, exporting and importing data](http://elh.mx/heroku/export-and-import-database-from-local-to-heroku/)
 * [Building a Ruby Desktop App in Linux](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [Ruby exception primer (appsignal)](https://blog.appsignal.com/2016/10/18/ruby-magic-exceptions-primer.html)
