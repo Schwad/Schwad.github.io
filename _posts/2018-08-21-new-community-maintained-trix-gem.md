@@ -1,6 +1,6 @@
 ---
  layout: post
- title:  "Migrate Your Apps to the New Community-Maintained Trix Gem for Rails: Trix-Rails"
+ title:  "Migrate your apps to the new community-maintained trix gem: 'trix-rails'"
  date:   2018-08-21 14:34:09 +0000
  categories: ruby rails community
  comments: true
@@ -9,7 +9,7 @@
 {: style="text-align:center"}
 ![New Horizons](https://i.imgur.com/vwLzQIy.png)
 
-[Trix](https://github.com/basecamp/trix) is a fantastic open-source WYSIWYG tool from the lovely folks at Basecamp. Thanks to their hard work, we now can easily punch in rich text editing for our users in a text field or text area. It has also become a critical piece of technology used by companies like [Podia](https://www.podia.com/) and [OceansHQ](https://www.oceanshq.com/).
+[Trix](https://github.com/basecamp/trix) is a fantastic open-source WYSIWYG tool from the lovely folks at Basecamp. Thanks to their hard work, we can easily punch in rich text editing for our users in a text field or text area. It has also become a critical piece of technology used by companies like [Podia](https://www.podia.com/) and [OceansHQ](https://www.oceanshq.com/).
 
 {: style="text-align:center"}
 ![WYSIWYG](https://i.imgur.com/8eIg8Wy.png)
