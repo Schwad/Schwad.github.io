@@ -9,9 +9,9 @@
 {: style="text-align:center"}
 ![Favorite](https://i.imgur.com/khXOwRk.jpg)
 
-A few months ago I [wrote about my favorite community resources, which was a really fun exercise.](https://schwad.github.io/posts/2018-05-03-my-favorite-ruby-community-resources) I have since extracted that list into a [maintained static page on this site.](https://schwad.github.io/favorite_resources)
+A few months ago I [wrote about my favorite community resources, which was a really fun exercise.](https://schwad.github.io/ruby/rails/community/resources/2018/05/03/my-favorite-ruby-community-resources.html) I have since extracted that list into a [maintained static page on this site.](https://schwad.github.io/favorite_resources)
 
-However, I only built up these resources over the years because I have a joy in discovering new corners of the Ruby community. It has been long enough already that I have some additions to share. Enjoy and as always, join in with your favorites that I have missed! (some recommended -and discovered- from commenters on the original post!)
+However, I only built up these resources over the years because I have a joy in discovering new corners of the Ruby community. I have some additions to share. Enjoy and as always, join in with your favorites that I have missed! (some recommended -and discovered- from commenters on the original post!)
 
 ### [GoRails](https://gorails.com/) - Screencast
 
