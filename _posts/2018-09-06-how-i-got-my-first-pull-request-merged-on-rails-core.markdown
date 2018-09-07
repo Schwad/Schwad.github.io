@@ -13,7 +13,7 @@
 
 Open source contributions are terrifying to many - even me.
 
-I want to tell you how I got here. This post will be equal parts personal experiences and concrete steps to meaningfully level up your open-source game __while still being a hard-working developer at your day job__.
+I want to tell you how I got here. This post will be equal parts personal experiences and concrete steps to meaningfully level up your open-source participation __while still being a hard-working developer at your day job__.
 
 ## Why contribute?
 
