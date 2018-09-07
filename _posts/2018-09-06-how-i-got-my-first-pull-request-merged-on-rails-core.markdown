@@ -35,7 +35,7 @@ These are all nice-to-haves that may actually occur, but are unlikely to be sust
 
 ## Okay, but where do I start? 🤔
 
-To get started, do not troll around on github reading endless lists of pull requests and issues to try and find a place for yourself. You need a constant guided feed of things to review, and the perfect tool for that ([very kindly created by Schneems](https://github.com/schneems)) is CodeTriage.
+To get started, do not troll around on github reading endless lists of pull requests and issues. You need a constant guided feed of things to review, and the perfect tool for that ([very kindly created by Schneems](https://github.com/schneems)) is CodeTriage.
 
 {: style="text-align:center"}
 ![Favorite](https://i.imgur.com/DAbjF4H.png)
@@ -51,9 +51,13 @@ Do this, and just get in the habit of reading what comes in at first. Then, jump
 {: style="text-align:center"}
 ![Favorite](https://i.imgur.com/77Zc2i0.png)
 
-This is 80-85% of what I do (and I do not do much, but more on that later). You will see issues and PR's that have never been responded to, have unanswered questions, or have unfulfilled commitments from many months or years. You are completely in your right to pop your head around the corner and ask: `"@user, do you feel that your question has been fully answered, so we can close this?"` or `"Hello @user_2! Any chance you've had an opportunity to get that commit together?"`. People have tried to do this with bots, but there is nothing like the urgency of a real, empathetic, caring human behind the ping.
+This is 80-85% of what I do (and I do not do much, but more on that later). You will see issues and PR's that have stagnated for months or years. You are completely allowed to pop your head around the corner and ask:
 
-This is 100% of how I use code triage. I actually think I have never used it to make PRs myself, although you certainly could. Even if you ignore your emails and only look at 4-6 issues for a half hour a month, you are giving back in a big way.
+`"@user, do you feel that your question has been fully answered, so we can close this?"` or `"Hello @user_2! Any chance you've had an opportunity to get that commit together?"`.
+
+People have tried to do this with bots, but there is nothing like the urgency of a real, empathetic, caring human behind the ping.
+
+This is 100% of how I use code triage. Even if you ignore your emails and only look at 4-6 issues for a half hour a month, you are giving back in a big way.
 
 ### Drive your gems/dependencies forward ➡️
 
@@ -62,9 +66,9 @@ This is 100% of how I use code triage. I actually think I have never used it to 
 
 Your applications have dependencies. There's no way around it.
 
-Those who have taken larger applications through major Rails upgrades know all-too-well the pain of gem version conflicts holding the upgrade back. The next time this happens with you, instead of forking and bumping the gem or filing an issue with the maintainers, file a PR updating the `gemspec` to support your latest Ruby or Rails version. (`Note: do your due diligence to ensure that the gem still functions with the new bump through tests and manual usage. I have found that 4 out of 5 times the upgrade has no problem`)
+Those who have taken larger applications through major Rails upgrades know all-too-well the pain of gem version conflicts holding the upgrade back. The next time this happens with you, instead of forking and bumping the gem or filing an issue with the maintainers, file a PR updating the `gemspec` to support your latest Ruby or Rails version. (`Note: do your due diligence to ensure that the gem still functions with the new bump.`)
 
-This habit actually will help you get involved in larger projects that benefit the community.
+This habit actually will help you get involved in larger projects: a win for you and the community!
 
 Recently, this approach led myself and a group of developers to actually move forward with [a new `trix` gem after the current one lapsed in maintenance](https://schwad.github.io/ruby/rails/community/2018/08/21/new-community-maintained-trix-gem.html).
 
@@ -91,7 +95,7 @@ ActiveStorage only works with activerecord objects using integer primary keys. I
 
 Instead of simply firing up an issue complaining about this, I [filed my own Rails pull request to have a crack at implementing what I wanted.](https://github.com/rails/rails/pull/32466). It was a difficult slog. I worked through an area of Rails-core that I was not familiar with.
 
-After a back-and-forth and several commits, I actually ended up closing the PR. The need was not strong enough and my skills in that area were not sufficient.
+After a back-and-forth and several commits, I actually ended up closing the PR. The need was not strong enough and my skills in that area were not sufficient. Like above, closures are okay and healthy. Even if your code does not make it to prime-time the discussion is preserved there as its own documentation.
 
 ### ⚠️ It is okay to flakily make small contributions ⚠️
 
