@@ -9,7 +9,9 @@
 {: style="text-align:center"}
 ![Favorite](https://i.imgur.com/XIOBAIg.png)
 
-[DHH recently reviewed and merged my first ever pull request to Rails core](https://github.com/rails/rails/pull/33523). Short of getting my first Ruby job years ago, this is my most proud Ruby-achievement to date. Open source contributions are terrifying to many - even me.
+[DHH recently reviewed and merged my first ever pull request to Rails core](https://github.com/rails/rails/pull/33523). Short of getting my first Ruby job years ago, this is my most proud Ruby-achievement to date.
+
+Open source contributions are terrifying to many - even me.
 
 I want to tell you how I got here. This post will be equal parts personal experiences and concrete steps to meaningfully level up your open-source game __while still being a hard-working developer at your day job__.
 
