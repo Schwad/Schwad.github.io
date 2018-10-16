@@ -7,11 +7,7 @@ permalink: /about/
 Hello there. My name is Nick Schwaderer and I currently live in beautiful Cornwall
 in the UK.
 
-I grew up in equally beautiful Superior, Montana in the United States, where
-I worked as a local journalist, sawmill employee, and two-term State Legislator
-before moving to the UK to work full time as a Ruby on Rails engineer at OceansHQ.
-
-My day job involves solving problems for various government clients around the
+My day job at OceansHQ involves solving problems for various government clients around the
 globe, building exciting new features for Maritime Administrations and maintaining
 a large flagship SaaS product.
 
