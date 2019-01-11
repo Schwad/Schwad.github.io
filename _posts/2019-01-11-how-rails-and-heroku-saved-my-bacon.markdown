@@ -13,9 +13,8 @@ I love Rails, Ruby and Heroku. If I need to get something that __works__ live an
 
 The other day I had 30 minutes to do just that.
 
-## The Schwad Awards
-
 {: style="text-align:center"}
+## The Schwad Awards
 ![Dundies](https://i.giphy.com/media/kq42EnMcsHuBG/giphy.webp)
 
 For either 9 or 10 years now (no one is quite sure), every holiday season I have been doing the Schwad Awards. For the first few years they were public on twitter, then I moved them to the more private-and-taggable world of Facebook.
@@ -40,9 +39,8 @@ I forgot about this until the week before the wedding, when I found out a fair f
 
 As I discovered during the __30 minutes I had allocated myself to write the awards before leaving for the venue__ Facebook does NOT allow post scheduling. This was only a feature I had gotten used to on my official facebook pages.
 
-## WHAT DO I DO NOW 🚨 😵
-
 {: style="text-align:center"}
+## WHAT DO I DO NOW 🚨 😵
 ![Shock](https://i.giphy.com/media/umMYB9u0rpJyE/giphy.webp)
 
 Don't panic. Abstract yourself. What do you NEED to happen? I repeated this to myself.
