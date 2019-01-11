@@ -51,7 +51,7 @@ They are very happy with the system, under the current ability file, and pay you
     end
   end
 end
- {% endhighlight %}
+{% endhighlight %}
 
 Thanks to a very sucessful drip campaign and word of mouth, before you know it, the Kingdom of MaxWoodia approaches you with a sackful of gold asking you to join
 your client base.
