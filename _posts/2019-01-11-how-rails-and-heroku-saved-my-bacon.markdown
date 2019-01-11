@@ -14,8 +14,9 @@ I love Rails, Ruby and Heroku. If I need to get something that __works__ live an
 The other day I had 30 minutes to do just that.
 
 ## The Schwad Awards
+
 {: style="text-align:center"}
-![Dundies](https://giphy.com/embed/kq42EnMcsHuBG)
+![Dundies](https://i.giphy.com/media/kq42EnMcsHuBG/giphy.webp)
 
 For either 9 or 10 years now (no one is quite sure), every holiday season I have been doing the Schwad Awards. For the first few years they were public on twitter, then I moved them to the more private-and-taggable world of Facebook.
 
@@ -42,7 +43,7 @@ As I discovered during the __30 minutes I had allocated myself to write the awar
 ## WHAT DO I DO NOW 🚨 😵
 
 {: style="text-align:center"}
-![Shock](https://giphy.com/embed/jIRPOnUASNsQ)
+![Shock](https://i.giphy.com/media/umMYB9u0rpJyE/giphy.webp)
 
 Don't panic. Abstract yourself. What do you NEED to happen? I repeated this to myself.
 
