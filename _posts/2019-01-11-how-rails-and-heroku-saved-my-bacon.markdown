@@ -33,13 +33,13 @@ Let me back up. __WAY__ up. Over four years after our first date, I got to be th
 
 I promised that on New Years Eve this year, as I'll have just been married, I would not be spending half the night slowly writing out Facebook schwad award posts.
 
-Instead, I did a post (somewhat jokingly) saying that the Schwad Awards would happen 'during' the wedding day and only be awarded to those in attendance.
+Around that time I made a post (jokingly) saying that the Schwad Awards would happen 'during' the wedding day and only be awarded to those in attendance.
 
-I forgot about this until the week before the wedding, when I found out a fair few guests actually __were__ expecting this to happen! I didn't worry - Facebook has the tooling to allow me to write these out in advance, my plan was to have them drip out on social networking at a steady pace during the time between the ceremony and the dinner. I figured it would be a nice trick while my wife and I were away taking all of our photos.
+I forgot about this until the week before the wedding, when I found out a fair few guests actually __were__ expecting this to happen! I didn't worry - Facebook has the tooling to allow me to write these out in advance, my plan was to have them drip out on social networking at a steady pace during the time between the ceremony and the dinner. I figured it would be a nice treat while my wife and I were away taking all of our photos.
 
 ## WRONG
 
-As I discovered during the __30 minutes I had allocated myself to write the awards before leaving for the venue__ Facebook does NOT allow post scheduling. This was only a feature I had gotten used to on my official facebook pages.
+As I discovered during the __30 minutes I had allocated myself to write the awards before leaving for the venue__ Facebook does NOT allow post scheduling. This was only a feature I had gotten used to on my official facebook pages. Yep. We had a problem.
 
 {: style="text-align:center"}
 ## WHAT DO I DO NOW 🚨 😵
@@ -47,7 +47,7 @@ As I discovered during the __30 minutes I had allocated myself to write the awar
 {: style="text-align:center"}
 ![Shock](https://i.giphy.com/media/umMYB9u0rpJyE/giphy.webp)
 
-Don't panic. Abstract yourself. What do you NEED to happen? I repeated this to myself.
+Don't panic, I told myself. In the scheme of things the Schwad Awards __really do not matter at all__, they can be left behind. But I still had 29.5 minutes. With the pressure off, I thought simply: __'what do I *need*'__ to make this work?
 
 I needed text online.
 
