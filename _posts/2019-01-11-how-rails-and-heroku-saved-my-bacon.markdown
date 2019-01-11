@@ -88,7 +88,7 @@ And boom! I was live in under five minutes! I had the rest of the 25 minutes to 
 
 One more important thing was to protect these awards from the 'wide open world' of the web.
 
-Normally my authentication is done with Devise, but for a time like this I just needed a simple username and password blocker that I would share on my facebook page. Luckily Rails has slick support for this with [HTTP Basic authentication](https://guides.rubyonrails.org/action_controller_overview.html#http-basic-authentication).
+Normally my authentication is done with [Devise](https://github.com/plataformatec/devise), but for a time like this I just needed a simple username and password blocker that I would share on my facebook page. Luckily Rails has slick support for this with [HTTP Basic authentication](https://guides.rubyonrails.org/action_controller_overview.html#http-basic-authentication).
 
 Taken straight from the guides here, you can implement this in any Rails controller in seconds like so:
 
