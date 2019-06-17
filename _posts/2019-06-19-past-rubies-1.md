@@ -6,7 +6,7 @@
  comments: true
 ---
 
-*Past Rubies is a weekly newsletter that shares curated historical content from the Ruby community. If you want to know what was going on this week in Ruby every week, [sign up here!](link)*
+*Past Rubies is a weekly newsletter that shares curated historical content from the Ruby community. Consider it Ruby's version of 'on this day in history'. [Click here to sign up!](link)*
 
 {: style="text-align:center"}
 ## [A Rubyist's "Who's Who" in a gist debate (June 22, 2012)](https://gist.github.com/justinko/2838490)
