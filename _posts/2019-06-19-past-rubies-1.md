@@ -6,9 +6,6 @@
  comments: true
 ---
 
-{: style="text-align:center"}
-![Favorite](https://i.imgur.com/I8as7eZ.png)
-
 __Past Rubies is a weekly newsletter that shares curated historical content from the Ruby community. If you want to know what was going on this week in Ruby every week, [sign up here!](link)__
 
 
