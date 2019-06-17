@@ -28,6 +28,8 @@ Chris Williams breaks down the talks from a bunch of speakers at 2006's Railscon
 
 Who could we rely on Rails hosting a decade ago? Have a peek into this google talk forum to see who the players were back when.
 
+https://programmingzen.com/the-great-ruby-shootout-windows-edition/
+http://www.drurly.com/blog/2012/06/26/reddit-in-10-lines-of-code/
 
 
 <form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
