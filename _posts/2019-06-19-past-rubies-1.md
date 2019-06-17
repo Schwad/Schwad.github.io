@@ -18,12 +18,14 @@ This actually started in May and raged for weeks, but DHH joined into the discus
 ## [Rails 1.2: what's next? (June 26, 2006)](http://web.archive.org/web/20060711170219/http://cwilliams.textdriven.com/articles/2006/06/26/railsconf-and-rails-1-2)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/Gkk4IVR.png)
+
 Chris Williams breaks down the talks from a bunch of speakers at 2006's Railsconf and looks towards the future.
 
 <!-- {: style="text-align:center"} -->
 ## [Rails Hosting: Can't make up my mind (June 23, 2009)](https://groups.google.com/forum/#!topic/rubyonrails-talk/s5u-60VgezY)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/c5JEzKY.png)
+
 Who could we rely on Rails hosting a decade ago? Have a peek into this google talk forum to see who the players were back when.
 
 
