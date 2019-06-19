@@ -6,7 +6,7 @@
  comments: true
 ---
 
-*Past Rubies is a tiny weekly newsletter that shares curated historical content from the Ruby community. Consider it Ruby's version of 'on this day in history'.*
+*Past Rubies is a tiny weekly newsletter that shares curated historical content from the Ruby community. Consider it Ruby's version of 'on this day in history'. New issues every Wednesday.*
 
 <hr>
 
