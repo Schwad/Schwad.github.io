@@ -6,7 +6,7 @@
  comments: true
 ---
 
-*Past Rubies is a tiny weekly newsletter that shares curated historical content from the Ruby community. Consider it Ruby's version of 'on this day in history'. [Click here to subscribe!](link)*
+*Past Rubies is a tiny weekly newsletter that shares curated historical content from the Ruby community. Consider it Ruby's version of 'on this day in history'.
 
 <hr>
 
@@ -28,7 +28,7 @@ Chris Williams breaks down the talks from a bunch of speakers at 2006's Railscon
 <hr>
 
 {: style="text-align:left"}
-## [Ruby Benchmarking Showdown (June 28, 2010](https://programmingzen.com/the-great-ruby-shootout-windows-edition/)
+## [Ruby Benchmarking Showdown (June 28, 2010)](https://programmingzen.com/the-great-ruby-shootout-windows-edition/)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/tmUQOV0.png)
 
@@ -37,7 +37,7 @@ Nine years ago Antonio Cangiano put together a massive amount of benchmarking go
 <hr>
 
 {: style="text-align:left"}
-## [Code Golf - Reddit in 10 Lines of Code (June 26, 2012](http://www.drurly.com/blog/2012/06/26/reddit-in-10-lines-of-code/)
+## [Code Golf - Reddit in 10 Lines of Code (June 26, 2012)](http://www.drurly.com/blog/2012/06/26/reddit-in-10-lines-of-code/)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/Vi40prK.png)
 
