@@ -2,7 +2,7 @@
  layout: post
  title:  "Past Rubies #1: Ruby Celebrity Free-For-All"
  date:   2019-06-19 14:34:09 +0000
- categories: ruby rails heroku
+ categories: past_rubies
  comments: true
 ---
 
