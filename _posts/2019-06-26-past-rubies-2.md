@@ -57,6 +57,7 @@ Check out this article which gives us a walkthrough of working with GMail in Rai
 After a four-year hiatus, this week two years ago Ryan Bates made his glorious return; and announced free Railscast episodes! Thanks for all you've done for the community, Ryan!
 <hr>
 
+
 <form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
   <h3 data-drip-attribute="headline">Stay in Touch</h3>
   <div data-drip-attribute="description">If you want Past Rubies sent straight to your inbox, or to get notified when I write something new, subscribe below</div>
