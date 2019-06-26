@@ -36,7 +36,7 @@ In 2006, the programming world didn't have the sort of resources for answering R
 As seen above, one option was [Guruza](http://web.archive.org/web/20070701205913/http://guruza.com/question/528/reward-5.00), which allowed you to actually put a dollar-figure on your Rails questions on the honor system and award the bounty to the correct answer.
 
 If money wasn't your thing but you were into gamification, [Rails-weenie](http://web.archive.org/web/20060407002746/http://rails.techno-weenie.net/question/2006/4/5/content_management_for_rails) let you earn and give away "points" for answering Rails questions.
-<p>
+
 ![Dundies](https://i.imgur.com/S5G7rAZ.png)
 <hr>
 
