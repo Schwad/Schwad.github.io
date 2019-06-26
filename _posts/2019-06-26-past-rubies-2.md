@@ -19,7 +19,7 @@ In 2007, then-Googler [Steve Yegge](https://medium.com/@steve.yegge) was advocat
 <hr>
 
 {: style="text-align:left"}
-### [Rails 5.0 Released (2006-06-27)](https://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/)
+### [Rails 5.0 Released (2016-06-27)](https://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/3vcV6Be.png)
 Holy moly. How is Rails 5.0 three years old this week? It only seems like yesterday we were all doing our major upgrades from 4.2. Take a trip down memory lane on this anniversary with a read through the launch post.
