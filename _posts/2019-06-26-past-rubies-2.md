@@ -37,6 +37,7 @@ As seen above, one option was [Guruza](http://web.archive.org/web/20070701205913
 
 If money wasn't your thing but you were into gamification, [Rails-weenie](http://web.archive.org/web/20060407002746/http://rails.techno-weenie.net/question/2006/4/5/content_management_for_rails) let you earn and give away "points" for answering Rails questions.
 
+{: style="text-align:center"}
 ![Dundies](https://i.imgur.com/S5G7rAZ.png)
 <hr>
 
