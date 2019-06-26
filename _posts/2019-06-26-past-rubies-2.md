@@ -37,7 +37,25 @@ As seen above, one option was [Guruza](http://web.archive.org/web/20070701205913
 
 If money wasn't your thing but you were into gamification, [Rails-weenie](http://web.archive.org/web/20060407002746/http://rails.techno-weenie.net/question/2006/4/5/content_management_for_rails) let you earn and give away "points" for answering Rails questions.
 
+{: style="text-align:center"}
+![Dundies](https://i.imgur.com/S5G7rAZ.png)
+<hr>
 
+{: style="text-align:left"}
+### [Using GMail with ActiveMailer (2006-06-27)](http://web.archive.org/web/20070109014309/http://typo.onxen.info/articles/2006/06/27/activemailer-sending-via-gmail)
+{: style="text-align:center"}
+![Dundies](https://i.imgur.com/5GHkIFd.png)
+
+Check out this article which gives us a walkthrough of working with GMail in Rails 13 years ago. (Bonus: There's a Rails-Weenie link in there!)
+<hr>
+
+{: style="text-align:left"}
+### [Ryan Bates Returns! (2017-06-27)](http://railscasts.com/announcements/13)
+{: style="text-align:center"}
+![Dundies](https://i.imgur.com/pTaK32G.png)
+<p>
+After a four-year hiatus, this week two years ago Ryan Bates made his glorious return; and announced free Railscast episodes! Thanks for all you've done for the community, Ryan!
+<hr>
 
 <form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
   <h3 data-drip-attribute="headline">Stay in Touch</h3>
