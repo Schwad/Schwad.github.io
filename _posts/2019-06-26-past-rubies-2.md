@@ -22,6 +22,7 @@ In 2007, then-Googler [Steve Yegge](https://medium.com/@steve.yegge) was advocat
 ### [Rails 5.0 Released (2016-06-27)](https://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/3vcV6Be.png)
+
 Holy moly. How is Rails 5.0 three years old this week? It only seems like yesterday we were all doing our major upgrades from 4.2. Take a trip down memory lane on this anniversary with a read through the launch post.
 <hr>
 
@@ -29,6 +30,7 @@ Holy moly. How is Rails 5.0 three years old this week? It only seems like yester
 ### [Getting answers to your burning Rails questions in 2006](http://web.archive.org/web/20070701205913/http://guruza.com/question/528/reward-5.00)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/fcc2jL1.png)
+
 In 2006, the programming world didn't have the sort of resources for answering Rails questions that we enjoy today. Nine times out of ten it seems we can just copy paste a mystery error and find our problem in seconds. Not so in 2006.
 
 As seen above, one option was [Guruza](http://web.archive.org/web/20070701205913/http://guruza.com/question/528/reward-5.00), which allowed you to actually put a dollar-figure on your Rails questions on the honor system and award the bounty to the correct answer.
@@ -42,6 +44,7 @@ If money wasn't your thing but you were into gamification, [Rails-weenie](http:/
 ### [Using GMail with ActiveMailer (2006-06-27)](http://web.archive.org/web/20070109014309/http://typo.onxen.info/articles/2006/06/27/activemailer-sending-via-gmail)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/5GHkIFd.png)
+
 Check out this article which gives us a walkthrough of working with GMail in Rails 13 years ago. (Bonus: There's a Rails-Weenie link in there!)
 <hr>
 
