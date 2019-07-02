@@ -35,14 +35,14 @@ This week thirteen years ago the one-and-only Peter Cooper announced to the worl
 <hr>
 
 {: style="text-align:left"}
-### [Florian Hanke on Building a Search Engine in Ruby (2006-07-01)](http://vimeo.com/12614970)
+### [Florian Hanke on Building a Search Engine in Ruby (2010-07-01)](http://vimeo.com/12614970)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/s6rbDZH.png)
 
 This is a real treat. Have a look into a conference talk on building a search engine in Ruby in 2010.
 <hr>
 {: style="text-align:left"}
-### [Peter Cooper announces 'Beginning Ruby' (2006-07-01)](http://railscasts.com/episodes/50-contributing-to-rails)
+### [Contributing to Rails Back in the Day (2007-06-27)](http://railscasts.com/episodes/50-contributing-to-rails)
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/F0Rak4x.png)
 
