@@ -1,7 +1,7 @@
 ---
  layout: post
  title:  "Past Rubies #4: Matz Joins Heroku"
- date:   2019-07-03 14:34:09 +0000
+ date:   2019-07-10 14:34:09 +0000
  categories: past_rubies
  comments: true
 ---
