@@ -41,7 +41,9 @@ pl = SPL.new({full_memo: 'Check extract method refactoring'})
 In your terminal:
 ```
 **********************************************************************
-Starting initialization. Current memory: 12(Mb), difference of 0 (mb) since beginning and difference of 0 since last log. time passed: 0.004678 seconds, time since last run: 0.004678
+Starting initialization. Current memory: 12(Mb), difference of 0
+(mb) since beginning and difference of 0 since last log. time
+passed: 0.004678 seconds, time since last run: 0.004678
 **********************************************************************
 ```
 
@@ -53,7 +55,9 @@ pl.log_performance("Test memo")
 
 ```
 *********************************************************************
-Starting Test memo. Current memory: 12(Mb), difference of 0 (mb) since beginning and difference of 0 since last log. time passed: 22.493993 seconds, time since last run: 9.616874
+Starting Test memo. Current memory: 12(Mb), difference of 0 (mb)
+since beginning and difference of 0 since last log. time passed:
+22.493993 seconds, time since last run: 9.616874
 *********************************************************************
 ```
 
