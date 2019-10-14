@@ -47,7 +47,7 @@ passed: 0.004678 seconds, time since last run: 0.004678
 **********************************************************************
 ```
 
-The object is now 'live', anywhere in your file call the object again with a memo of your choice:
+The object is now 'live'. Anywhere in your file call the object again with a memo of your choice:
 
 ```ruby
 pl.log_performance("Test memo")
