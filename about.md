@@ -7,10 +7,6 @@ permalink: /about/
 Hello there. My name is Nick Schwaderer and I currently live in beautiful Cornwall
 in the UK.
 
-My day job at OceansHQ involves solving problems for various government clients around the
-globe, building exciting new features for Maritime Administrations and maintaining
-a large flagship SaaS product.
-
 On my own time I enjoy unique challenges and work, so if you would like to hire
 me, feel free to [get in touch.](mailto:nicholas.schwaderer@gmail.com)
 
