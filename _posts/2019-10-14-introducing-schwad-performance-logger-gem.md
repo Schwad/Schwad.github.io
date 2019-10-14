@@ -24,7 +24,7 @@ Do you also find yourself manually recording these values from your terminal to 
 
 Further, how often do you reach for one of half-a-dozen different performance profiling tools to get simple measurements?
 
-If one or more of these is you - then I think you're going to like my nifty little gem I've just open-sourced: [SchwadPerformanceLogger](https://github.com/Schwad/schwad_performance_logger)
+If one or more of these is you - then I think you're going to like my nifty little gem I've just open-sourced: [SchwadPerformanceLogger](https://github.com/Schwad/schwad_performance_logger) I've used it myself for years and reckoned it's time to share it with my Ruby Friends.
 
 ## So what does it do?
 
@@ -204,6 +204,10 @@ end
 
 #=> {:T_OBJECT=>101848, :T_CLASS=>730344, :T_MODULE=>76808, :T_FLOAT=>240, :T_STRING=>882168, :T_REGEXP=>200350, :T_ARRAY=>714384, :T_HASH=>150408, :T_STRUCT=>800, :T_BIGNUM=>80, :T_FILE=>1160, :T_DATA=>1074338, :T_MATCH=>28280, :T_COMPLEX=>40, :T_RATIONAL=>40, :T_SYMBOL=>5080, :T_IMEMO=>325040, :T_ICLASS=>3280, :TOTAL=>4294688}
 ```
+
+## That's it!
+
+If there's more tooling you think I should add, or you want to help out and chuck in a PR, you are more than welcome to join the discussion [on the repo](https://schwad.github.io/ruby/rails/gem/performance/2019/10/14/introducing-schwad-performance-logger-gem.html) thanks for reading!
 
 <form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
   <h3 data-drip-attribute="headline">Stay in Touch</h3>
