@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello there. My name is Nick Schwaderer and I currently live in beautiful Cornwall
-in the UK.
+## About
 
-On my own time I enjoy unique challenges and work, so if you would like to hire
-me, feel free to [get in touch.](mailto:nicholas.schwaderer@gmail.com)
+My name is Nick Schwaderer and I currently live in Belfast. I am happily at work at Shopify so not seeking work at this time. However, if there's a question you have or you would like to get in touch, [drop me a note.](mailto:nicholas.schwaderer@gmail.com)
 
 <form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
   <h3 data-drip-attribute="headline">Stay in Touch</h3>
