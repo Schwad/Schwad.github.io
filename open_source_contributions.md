@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Open Source Contributions
 permalink: /open-source-contributions/
@@ -72,4 +72,4 @@ Here are some of my open source contributions, large and small.
   <div>
     <input type="submit" value="I Love Ruby too! 💎" data-drip-attribute="sign-up-button" />
   </div>
-</form>
+</form> -->

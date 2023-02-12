@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Reading List
 permalink: /reading-list/
@@ -66,4 +66,4 @@ __(for those posts you find and never want to lose again)__
       <div>
         <input type="submit" value="I Love Ruby too! 💎" data-drip-attribute="sign-up-button" />
       </div>
-    </form>
+    </form> -->
