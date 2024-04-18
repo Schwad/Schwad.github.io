@@ -10,7 +10,7 @@
 
 The 90s and 2000s were high tide for offbeat beer ads. Many did not age well. Some were fairly funny. Some that weren't particularly funny but were RIFE were Foster's commercials.
 
-The setup was simple. A weird video clip, [like this one](https://www.youtube.com/watch?v=uCG6N1w6zp0), followed by a word, and then the slogan "Fosters: Australian for Beer".
+The setup was simple. A weird video clip, [like this one](https://www.youtube.com/watch?v=uCG6N1w6zp0), followed by a word and then the slogan "Fosters: Australian for Beer".
 
 I have never seen a can of Fosters in the United States. Let alone someone drinking it. (Though weirdly, in the UK, from 2009-2012, I drank plenty). Although the ad campaign was a practical failure, and that I did not drink as a 16 year old, it culturally held a HUGE relative space in the minds of myself and my classmates. The ad was on ALL the time.
 
