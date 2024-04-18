@@ -3,12 +3,8 @@
  title:  "You are what you see"
  date:   2024-04-18 07:34:09 +0000
  categories: ruby rails tutorials
- comments: true
+ comments: false
 ---
-
-{: style="text-align:center"}
-<!-- Some image from chatgpt -->
-![Favorite](https://i.imgur.com/cdkKQBu.png)
 
 The 90s and 2000s were peak time for wild beer ads. Many did not age well. Some were fairly funny. Some that weren't particularly funny but were RIFE were Foster's commercials.
 

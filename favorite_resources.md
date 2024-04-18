@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Favorite Resources
 permalink: /favorite_resources/
@@ -39,4 +39,4 @@ This list is by no means comprehensive and changes all the time, but it's the so
 * [Drifting Ruby](https://www.driftingruby.com/) - they are releasing pro-only videos sometimes now but this is my favorite screencast-er with weekly updates on really interesting stuff and I find it incredibly useful. One of the hosts of Ruby Rogues does this
 * Finally [Code Triage](https://www.codetriage.com/). Seriously, it really helped me go from 'I never have done any open source help' to making it a habit. I just get random notifications about old PRs and Issues and I read them. If they need a 'bump' I kindly write 'Hey what's happening here?'. And once in a while I can actually help from the technical perspective.
 
-Missing anything?
+Missing anything? -->

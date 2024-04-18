@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Hire Me
 permalink: /hire_me/
@@ -12,4 +12,4 @@ My name is Nick Schwaderer and I currently live in Belfast. I am happily at work
 
 * [Github](https://github.com/schwad)
 * [Twitter](https://twitter.com/schwad4hd14)
-* [LinkedIn](https://linkedin.com/nicholasschwaderer)
+* [LinkedIn](https://linkedin.com/nicholasschwaderer) -->
