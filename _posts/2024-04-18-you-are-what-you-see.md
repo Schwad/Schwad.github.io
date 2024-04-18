@@ -6,7 +6,10 @@
  comments: false
 ---
 
-The 90s and 2000s were peak time for wild beer ads. Many did not age well. Some were fairly funny. Some that weren't particularly funny but were RIFE were Foster's commercials.
+{: style="text-align:center"}
+![Favorite](https://i.ytimg.com/vi/uCG6N1w6zp0/hqdefault.jpg)
+
+The 90s and 2000s were high tide for offbeat beer ads. Many did not age well. Some were fairly funny. Some that weren't particularly funny but were RIFE were Foster's commercials.
 
 The setup was simple. A weird video clip, [like this one](https://www.youtube.com/watch?v=uCG6N1w6zp0), a word, and then the slogan "Fosters: Australian for Beer".
 
