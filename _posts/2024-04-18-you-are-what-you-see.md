@@ -1,6 +1,6 @@
 ---
  layout: post
- title:  "We are what we see"
+ title:  "You are what you see"
  date:   2024-04-18 07:34:09 +0000
  categories: ruby rails tutorials
  comments: true
