@@ -2,7 +2,7 @@
  layout: post
  title:  "Did I watch the 90's Foster's beer add thousands of times?"
  date:   2019-12-02 07:34:09 +0000
- categories: ruby rails tutorials
+ categories: ruby rails community
  comments: true
 ---
 

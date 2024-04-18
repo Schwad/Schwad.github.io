@@ -40,15 +40,3 @@ This list is by no means comprehensive and changes all the time, but it's the so
 * Finally [Code Triage](https://www.codetriage.com/). Seriously, it really helped me go from 'I never have done any open source help' to making it a habit. I just get random notifications about old PRs and Issues and I read them. If they need a 'bump' I kindly write 'Hey what's happening here?'. And once in a while I can actually help from the technical perspective.
 
 Missing anything?
-
-<form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
-  <h3 data-drip-attribute="headline">Stay in Touch</h3>
-  <div data-drip-attribute="description">I like to write about Ruby and building things, typically once every month or so. Get an email when I have written something new.</div>
-    <div>
-        <label for="drip-email">Email Address</label><br />
-        <input type="email" id="drip-email" name="fields[email]" value="" />
-    </div>
-  <div>
-    <input type="submit" value="I Love Ruby too! 💎" data-drip-attribute="sign-up-button" />
-  </div>
-</form>
