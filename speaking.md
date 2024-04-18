@@ -6,6 +6,10 @@ permalink: /speaking/
 
 I like to speak about Ruby. Here are some of my recent talks.
 
+## 2023
+
+  * [Brighton Ruby - Scarpe Diem: Modern Ruby Desktop Development](https://brightonruby.com/2023/scarpe-diem-nick-schwaderer/)
+
 ## 2022
   * [Ruby Archaeology - Forgotten Web Frameworks](https://www.youtube.com/watch?v=XZWQ2MoN6-M&ab_channel=RubyCentral)
     * [Ruby Conf](https://www.youtube.com/watch?v=XZWQ2MoN6-M&ab_channel=RubyCentral)
