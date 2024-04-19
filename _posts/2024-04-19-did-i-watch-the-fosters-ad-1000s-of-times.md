@@ -21,7 +21,7 @@ Thursday nights? ER. Sunday nights? X-Files. Weekend afternoon? Family blockbust
 This source alleges the mean number of hours of TV watched in America is around [4 hours a day](https://www.csun.edu/science/health/docs/tv&health.html#tv_stats). This [slightly-better-looking](https://www.statista.com/statistics/411775/average-daily-time-watching-tv-us-by-age/) data indicates the number is actually less for non-retirees, and is decreasing year on year for the younger folks.
 
 {: style="text-align:center"}
-![Favorite](https://imgur.com/a/2fTkAqE)
+![Favorite](https://i.imgur.com/t7wTsSA.png)
 
 Let's just say I averaged 4.5 hours of TV per day. Though I know some days would've been MUCH more. This *very* helpful [overview of the campaign](https://www.encyclopedia.com/marketing/encyclopedias-almanacs-transcripts-and-maps/fosters-group-limited) indicates it ran from 1994 to 2001. Allegedly it won awards. The budget was initially $3 million a year and then $10 million a year. It seems I wouldn't have seen it before 1997 on the lower budget.The *conclusion* of the ad campaign is unclear, but it appears reasonable to assume it wrapped up around 2004.
 
