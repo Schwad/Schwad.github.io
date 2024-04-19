@@ -12,13 +12,21 @@ In my post ["You are what you see"](https://schwad.github.io/2024/04/18/you-are-
 
 Let's explore.
 
-We didn't have smartphones. In my free time I did do a fair few enriching activities (raising poultry, archery, hiking, swimming, fishing) and a fair few unenriching activites (Playstation, Gameboy, chatrooms). But where I grew up *television was king*.
+We didn't have smartphones. In my free time I did do a fair few enriching activities (raising poultry, archery, hiking, swimming, fishing) and some unenriching activites (Playstation, Gameboy, chatrooms). But where I grew up *television was king*.
 
 Thursday nights? ER. Sunday nights? X-Files. Weekend afternoon? Family blockbuster movie. We didn't go on "holidays" like many in Europe do, and we didn't camp like many where I lived did. The TV was the down time and our chance to connect with the world.
 
-* This possibly-not-credible-source said the mean number of hours of TV watched in America is around [4 hours a day](https://www.csun.edu/science/health/docs/tv&health.html#tv_stats). This [slightly better looking](https://www.statista.com/statistics/411775/average-daily-time-watching-tv-us-by-age/) chonk of data indicates the number is actually less for non-retirees, and is decreasing year on year for the younger folks.
+<hr>
+
+This source alleges the mean number of hours of TV watched in America is around [4 hours a day](https://www.csun.edu/science/health/docs/tv&health.html#tv_stats). This [slightly-better-looking](https://www.statista.com/statistics/411775/average-daily-time-watching-tv-us-by-age/) data indicates the number is actually less for non-retirees, and is decreasing year on year for the younger folks.
+
+{: style="text-align:center"}
+![Favorite](https://imgur.com/a/2fTkAqE)
 
 Let's just say I averaged 4.5 hours of TV per day. Though I know some days would've been MUCH more. This *very* helpful [overview of the campaign](https://www.encyclopedia.com/marketing/encyclopedias-almanacs-transcripts-and-maps/fosters-group-limited) indicates it ran from 1994 to 2001. Allegedly it worn awards. The budget was initially $3 million a year and then $10 million a year. It seems I wouldn't have seen it before 1997 on the lower budget.The *conclusion* of the ads is unclear, but it appears reasonable to assume it wrapped up around 2004.
+
+{: style="text-align:center"}
+![Favorite](https://i.imgur.com/aBvoD5C.png)
 
 Seven years? Cool.
 
