@@ -2,8 +2,7 @@
  layout: post
  title:  "Did I watch the 90's Foster's beer add thousands of times?"
  date:   2024-04-19 07:34:09 +0000
- categories: ruby rails community
- comments: true
+ comments: false
 ---
 
 {: style="text-align:center"}
