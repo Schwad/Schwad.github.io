@@ -23,12 +23,12 @@ This source alleges the mean number of hours of TV watched in America is around 
 {: style="text-align:center"}
 ![Favorite](https://imgur.com/a/2fTkAqE)
 
-Let's just say I averaged 4.5 hours of TV per day. Though I know some days would've been MUCH more. This *very* helpful [overview of the campaign](https://www.encyclopedia.com/marketing/encyclopedias-almanacs-transcripts-and-maps/fosters-group-limited) indicates it ran from 1994 to 2001. Allegedly it worn awards. The budget was initially $3 million a year and then $10 million a year. It seems I wouldn't have seen it before 1997 on the lower budget.The *conclusion* of the ads is unclear, but it appears reasonable to assume it wrapped up around 2004.
+Let's just say I averaged 4.5 hours of TV per day. Though I know some days would've been MUCH more. This *very* helpful [overview of the campaign](https://www.encyclopedia.com/marketing/encyclopedias-almanacs-transcripts-and-maps/fosters-group-limited) indicates it ran from 1994 to 2001. Allegedly it won awards. The budget was initially $3 million a year and then $10 million a year. It seems I wouldn't have seen it before 1997 on the lower budget.The *conclusion* of the ad campaign is unclear, but it appears reasonable to assume it wrapped up around 2004.
 
 {: style="text-align:center"}
 ![Favorite](https://i.imgur.com/aBvoD5C.png)
 
-Seven years? Cool.
+Seven years? Cool. That should be enough information to start making some inferences.
 
 **Seven** years times **365** days times **4.5** hours is **11,497.5** hours of television-watching. That's 14-28 ads per hour based [on estimates](https://mocktheagency.com/content/how-many-tv-ads-per-hour/#:~:text=On%20average%2C%20viewers%20watch%20around,ad%20is%2030%20seconds%20long.). This changes based on the length of the ad - some are 5 second bumpers and others are 60 seconds long.
 
