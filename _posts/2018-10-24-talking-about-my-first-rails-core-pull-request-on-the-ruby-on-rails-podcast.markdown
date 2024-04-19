@@ -15,5 +15,6 @@ One that I absolutely love is [The Ruby on Rails Podcast](http://5by5.tv/rubyonr
 
 Needless to say I was absolutely honored when I was invited to speak and share my story a few weeks ago; from dipping my toes into very small bits of open source to getting a meaningful Rails PR accepted by DHH himself. [Check it out! And subscribe if you haven't!](http://5by5.tv/rubyonrails/245)
 
+
 {: style="text-align:center"}
 [![Ruby Talk](https://i.imgur.com/GPCKTrI.png)](http://5by5.tv/rubyonrails/245)
