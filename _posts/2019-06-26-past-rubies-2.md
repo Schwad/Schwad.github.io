@@ -12,6 +12,7 @@
 
 {: style="text-align:left"}
 ### [Googler Steve Yegge fully ports Rails to a Javascript framework - in 2007 (2007-06-24)](https://web.archive.org/web/20071009012555/http://www.iunknown.com/2007/06/steve-yegge-por.html)
+
 {: style="text-align:center"}
 ![Dundies](https://i.imgur.com/mntyagZ.png)
 In 2007, then-Googler [Steve Yegge](https://medium.com/@steve.yegge) was advocating that Google start using Ruby. Google, of course, said no. So Steve did what any frustrated programmer in 2007 would do. He built an entire serverside Javascript framework as a line-by-line rewrite of Ruby on Rails. Nice.
