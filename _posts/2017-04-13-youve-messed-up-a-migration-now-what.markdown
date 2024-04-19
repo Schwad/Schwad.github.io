@@ -37,31 +37,3 @@ Nice. The latest one is the migration you want to 'redo', but this will work on 
 `rake db:migrate:redo VERSION=20170704195845`
 
 That's it! You're ready to move on and didn't need to spend a chunk of an hour resetting everything.
-
-<!-- Drip -->
-<script type="text/javascript">
-  var _dcq = _dcq || [];
-  var _dcs = _dcs || {};
-  _dcs.account = '2671646';
-
-  (function() {
-    var dc = document.createElement('script');
-    dc.type = 'text/javascript'; dc.async = true;
-    dc.src = '//tag.getdrip.com/2671646.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(dc, s);
-  })();
-</script>
-<!-- end Drip -->
-
-<form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
-  <h3 data-drip-attribute="headline">Stay in Touch</h3>
-  <div data-drip-attribute="description">I like to write about Ruby and building things, typically once every month or so. Get an email when I have written something new.</div>
-    <div>
-        <label for="drip-email">Email Address</label><br />
-        <input type="email" id="drip-email" name="fields[email]" value="" />
-    </div>
-  <div>
-    <input type="submit" value="I Love Ruby too! 💎" data-drip-attribute="sign-up-button" />
-  </div>
-</form>
