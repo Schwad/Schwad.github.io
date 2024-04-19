@@ -51,31 +51,3 @@ This post starts out showcasing a reddit build in Sinatra which is cool enough i
 ![Dundies](https://i.imgur.com/c5JEzKY.png)
 
 Who could we rely on Rails hosting a decade ago? Have a peek into this google talk forum to see who the players were back when.
-
-<form action="https://www.getdrip.com/forms/275494850/submissions" method="post" data-drip-embedded-form="275494850">
-  <h3 data-drip-attribute="headline">Stay in Touch</h3>
-  <div data-drip-attribute="description">If you want Past Rubies sent straight to your inbox, or to get notified when I write something new, subscribe below</div>
-    <div>
-        <label for="drip-email">Email Address</label><br />
-        <input type="email" id="drip-email" name="fields[email]" value="" />
-    </div>
-  <div>
-    <input type="submit" value="I Love Past Rubies! 💎" data-drip-attribute="sign-up-button" />
-  </div>
-</form>
-
-<!-- Drip -->
-<script type="text/javascript">
-  var _dcq = _dcq || [];
-  var _dcs = _dcs || {};
-  _dcs.account = '2671646';
-
-  (function() {
-    var dc = document.createElement('script');
-    dc.type = 'text/javascript'; dc.async = true;
-    dc.src = '//tag.getdrip.com/2671646.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(dc, s);
-  })();
-</script>
-<!-- end Drip -->
