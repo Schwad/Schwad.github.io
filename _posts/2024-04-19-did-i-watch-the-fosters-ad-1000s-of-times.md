@@ -39,7 +39,7 @@ I would've watched HBO and films too. Let's say that was a quarter of my watchin
 
 Which makes us at a cool 114,975 ads. Let's make it 115,000 because we can.
 
-That's..... Not a lot? The upper bound (if I watched more TV and underestimated ad density) is probably around 200,000 and the lower bound I would be shocked if it's under 100,000. The smell test estimates 45 ads a day and I tell you what I'm pretty sure I _far_ exceeded that number some afternoons watching MTV.
+That's..... not a lot? The upper bound (if I watched more TV and underestimated ad density) is probably around 200,000 and the lower bound I would be shocked if it's under 100,000. The smell test estimates 45 ads a day and I tell you what I'm pretty sure I _far_ exceeded that number some afternoons watching MTV.
 
 So what we need is 1 Fosters ad apperance in a 100, or 1 in 50 if we want to say I saw it "thousands" of times. That's our final question.
 
