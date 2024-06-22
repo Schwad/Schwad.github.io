@@ -1,7 +1,7 @@
 ---
  layout: post
  title:  "schawad_performance_logger 0.5 released"
- date:   2024-06-22 10:34:09 +0000
+ date:   2024-06-22 07:34:09 +0000
  comments: false
 ---
 
