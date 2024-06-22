@@ -7,7 +7,7 @@
 
 In 2019 I authored the [schwad_performance_logger](https://github.com/Schwad/schwad_performance_logger) gem to solve a problem that seemingly only I had. I wanted a thin DSL for `get_process_mem`, `memory_profiler`, `benchmark-ips` and time performance.
 
-I wanted to package up these tools together and have easy access to them. With one line of code I wanted to get information from all of these. I also wanted to be able to check this information repeatedly in my Ruby to see current profile stats - as well as a delta from the last time I checked in.
+I wanted to package up these tools together and have easy access to them. With one line of code I can get all the information I want.
 
 This weekend I shipped an update.
 
