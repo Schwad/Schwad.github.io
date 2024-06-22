@@ -40,5 +40,3 @@ The current output of `#log_performance` used to be a sloppy mess. I didn't care
 
 {: style="text-align:center"}
 ![Favorite](https://i.imgur.com/E6Ib2v8.png)
-
-Enjoy!
